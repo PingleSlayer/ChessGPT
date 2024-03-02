@@ -1,9 +1,9 @@
 # ChessGPT
 
-## Training Plan and Data Collection
-
-### Overview
+## Overview
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring. The plan outlines training levels, tasks, data collection, and model releases. I believe the techniques used in this project will be applicable in many different specialized models.
+
+## Training Plan
 
 ### Levels
 There will be several stages of training that will use very different kinds of data. We can differentiate the following stages:
@@ -59,3 +59,5 @@ The current plan to go from zero to the ultimate ChessGPT is as follows:
 21. **Release 6:** Use this version as a super strong chess engine.
 22. **Training 8:** Perform RLHF on the model to check/improve performance.
 23. **Release 7:** Use this version
+
+## Data Collection
