@@ -32,30 +32,30 @@ To improve the model's overal chess capabilties we have devised the following ta
 11. **Guess the players**
 12. **Predict next move** 
 13. **Find opening name**
+14. **Guess previous moves**
 
 ### Plan
 The current plan to go from zero to the ultimate ChessGPT is as follows:
 1. Obtain pretrained LLM or train own LLM.
 2. Collect as much chess-related text data as possible.
-3. Train model on data gathered in the previous step.
+3. **Training 1:** Train model on data gathered in the previous step.
 4. Think of additional tasks and do prompt engineering on task prompts.
 5. Collect human written examples of tasks (Reasoning + Response).
 6. Generate variations of data using chatGPT or other methods.
-7. Finetune model on collected data.
-8. Release 1: Use model for summarizing games, explaining basic moves, and answering chess trivia questions (English only).
-9. Train model on unlabeled data (Response only for Tasks 6-22).
-10. Release 2: Use model for evaluating positions, estimating ELO, predicting the next move, and as a chess engine at a specific ELO (English only).
+7. **Training 2:** Finetune model on collected data.
+8. **Release 1:** Use model for summarizing games, explaining basic moves, and answering chess trivia questions (English only).
+9. **Training 3:** Train model on unlabeled data (Response only for Tasks 6-22).
+10. **Release 2:** Use model for evaluating positions, estimating ELO, predicting the next move, and as a chess engine at a specific ELO (English only).
 11. Translate human-written examples to common languages.
-12. Finetune model on translated human-written examples.
-13. Release 3: Use model for all tasks from Releases 1 and 2 but in multiple languages.
-14. Perform RLHF on the model for checking/improving performance.
-15. Release 4: Use model as the alpha version of the chess tutor.
+12. **Training 4:** Finetune model on translated human-written examples.
+13. **Release 3:** Use model for all tasks from Releases 1 and 2 but in multiple languages.
+14. **Training 5:** Perform RLHF on the model for checking/improving performance.
+15. **Release 4:** Use model as the alpha version of the chess tutor.
 16. Evaluate conversations ChessGPT had with users.
-17. Train model on evaluation data from the previous step.
-18. Release 5: Use model as the beta version of the chess tutor.
+17. **Training 6:** Train model on evaluation data from the previous step.
+18. **Release 5:** Use model as the beta version of the chess tutor.
 19. Consider making the model multi-agent.
-20. Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
-21. Release 6: Use this version as a super strong chess engine.
-22. Perform RLHF on the model to check/improve performance.
-23. Release 7: Use this version
-15. **Guess previous moves**
+20. **Training 7:** Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
+21. **Release 6:** Use this version as a super strong chess engine.
+22. **Training 8:** Perform RLHF on the model to check/improve performance.
+23. **Release 7:** Use this version
