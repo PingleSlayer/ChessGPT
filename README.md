@@ -64,6 +64,3 @@ To improve the model's overal chess capabilties we have devised the following ta
 13. **Find opening name**
 14. **Guess previous moves**
 
-
-
-## Data Collection
