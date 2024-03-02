@@ -3,7 +3,7 @@
 ## Training Plan and Data Collection
 
 ### Overview
-This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring. The plan outlines training levels, tasks, data collection, and model releases.
+This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring. The plan outlines training levels, tasks, data collection, and model releases. I believe the techniques used in this project will be applicable in many different specialized models.
 
 ### Levels
 There will be several stages of training that will use very different kinds of data. We can differentiate the following stages:
