@@ -33,7 +33,7 @@ The current plan to go from zero to the ultimate ChessGPT is as follows:
 20. **Training 7:** Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
 21. **Release 6:** Use this version as a super strong chess engine.
 22. **Training 8:** Perform RLHF on the model to check/improve performance.
-23. **Release 7:** Use this version
+23. **Release 7:** Use this version for super strong chess tutor
 
 ### Levels
 There will be several stages of training that will use very different kinds of data. We can differentiate the following stages:
