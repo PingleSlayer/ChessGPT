@@ -2,7 +2,9 @@
 
 ## Overview
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring.
+
 I believe that a community should be capable of producing enough data and compute to create an amazing model and to serve as a proof of concept of some techniques for creating specialized models.
+
 The plan outlines training levels, tasks, data collection, and possible model releases. 
 
 ## Training Plan
