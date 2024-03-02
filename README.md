@@ -53,19 +53,12 @@ There will be several stages of training that will use very different kinds of d
 9. **Expert Chess Tutor LLM:** Expert chess tutoring.
 
 ### Tasks
-To improve the model's overal chess capabilties we have devised the following tasks:
+To improve the model's overal chess capabilties we have devised a variety of tasks. Some of the tasks we have constructed are:
 1. **Teach chess effectively** 
 2. **Answer chess trivia questions**
-3. **Summarize a game** 
-4. **Explain reasoning behind a move**
-5. **Find the best move**
-6. **Generate legal moves sorted from best to worst**
-7. **Evaluate position**
-8. **Check if move is legal**
-9. **Generate FEN**
-10. **Guess the ELO**
-11. **Guess the players**
-12. **Predict next move** 
-13. **Find opening name**
-14. **Guess previous moves**
+3. **Find the best move**
+4. **Evaluate position**
+5. **Guess the ELO**
+6. **Predict next move** 
+
 
