@@ -4,6 +4,11 @@
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring.
 
 I believe that a community should be capable of producing enough data and compute to create an amazing model and to serve as a proof of concept of some techniques for creating specialized models.
+Some of the unique techniques I would like to test/use are:
+ - Creating a wide variety of tasks to improve overal knowledge in the field
+ - Training in multiple stages for specific improvements
+ - Using the first person in prompts to create a 'sense of self'?
+ - Making use of hidden tokens used for reasoning that can be ignored during training/finetuning (both to improve performance and to be able to more effectively train on unlabled data?)
 
 The plan outlines training levels, tasks, data collection, and possible model releases. 
 
