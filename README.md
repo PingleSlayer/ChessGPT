@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring.
+I do not have the hardware nor the funds to create such a model myself, but I hope to help create some of the frameworks and the data for achieving this model. 
 
 I believe that a community should be capable of producing enough data and compute to create an amazing model and to serve as a proof of concept of some techniques for creating specialized models.
 Some of the unique techniques I would like to test/use are:
