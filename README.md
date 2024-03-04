@@ -63,7 +63,7 @@ To improve the model's overal chess capabilties we have devised a variety of tas
 6. **Predict next move** 
 
 ### Data
-We are experimenting with different techniques for collecing the required data for the training of ChessGPT. The following methods are being tried.
+We are experimenting with different techniques for collecing the required data for the training of ChessGPT. The following methods are being tried:
 1. **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
 2. **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
 3. **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
