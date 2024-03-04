@@ -7,8 +7,8 @@ I do not have the hardware nor the funds to create such a model myself, but I ho
 I believe that a community should be capable of producing enough data and compute to create an amazing model and to serve as a proof of concept of some techniques for creating specialized models.
 Some of the unique techniques I would like to test/use are:
  - Creating a wide variety of tasks to improve overal knowledge in the field
- - Training in multiple stages for specific improvements
  - Using well-structured prompts for tasks
+ - Training in multiple stages for specific improvements
  - Making use of hidden tokens used for reasoning that can be ignored during training/finetuning (both to improve performance and to be able to more effectively train on unlabled data?)
 
 The plan outlines training levels, tasks, data collection, and possible model releases. 
@@ -41,7 +41,7 @@ The current plan to go from zero to the ultimate ChessGPT is as follows:
 22. **Training 8:** Perform RLHF on the model to check/improve performance.
 23. **Release 7:** Use this version for super strong chess tutor
 
-### Levels
+### Stages
 There will be several stages of training that will use very different kinds of data. We can differentiate the following stages:
 1. **Pretrained LLM:** Basic language understanding.
 2. **Pretrained Chess LLM:** Basic chess understanding.
@@ -62,4 +62,10 @@ To improve the model's overal chess capabilties we have devised a variety of tas
 5. **Guess the ELO**
 6. **Predict next move** 
 
+### Data
+We are experimenting with different techniques for collecing the required data for the training of ChessGPT. The following methods are being tried.
+1. **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
+2. **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
+3. **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
+4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
 
