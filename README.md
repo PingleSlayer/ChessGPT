@@ -65,7 +65,7 @@ ChessGPT's capabilities will be refined through various tasks, including:
 5. **Guess the ELO**
 6. **Predict next move** 
 
-### Data
+## Data
 Experimentation with diverse data collection methods is crucial for ChessGPT's success. We're exploring:
 1. **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
 2. **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
@@ -73,6 +73,13 @@ Experimentation with diverse data collection methods is crucial for ChessGPT's s
 4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
 5. **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
 6. **RLHF:** for checking and improving the models capabilities we could perform some RLHF (reasoning and response)
+
+## Reasoning
+I suggest having the model always output its reasoning before giving its response. 
+This would make the model slightly more expensive during inference, but I believe it could massively increase its performance.
+Through the power of reason the performance of a smaller model should be similar to the performance of a much larger model making it more cost-effective overall.
+At first we should train the model on examples that have both reasoning and response, later we should find a way to train the model only based on its response and not the reasoning.
+This would mean we can train the model on a huge quantity of data for which we have no reasoning examples available.
 
 
 Join us in shaping the future of ChessGPT and making chess knowledge accessible to all! Feel free to contribute and share your insights.
