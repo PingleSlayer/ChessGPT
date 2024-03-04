@@ -72,6 +72,7 @@ Experimentation with diverse data collection methods is crucial for ChessGPT's s
 3. **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
 4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
 5. **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
+6. **RLHF:** for checking and improving the models capabilities we could perform some RLHF
 
 
 Join us in shaping the future of ChessGPT and making chess knowledge accessible to all! Feel free to contribute and share your insights.
