@@ -3,6 +3,7 @@
 ## Overview
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring.
 I do not have the hardware nor the funds to create such a model myself, but I hope to help create some of the frameworks and the data for achieving this model. 
+This project is only in its starting phase and is aimed to be an open-source community project, so if you have any ideas/tips feel free to contribute!
 
 I believe a finalized model could outperform Stockfish while being able to thoroughly explain why it makes certain decisions. 
 
@@ -18,7 +19,7 @@ The plan outlines training levels, tasks, data collection, and possible model re
 ## Training Plan
 
 ### Plan
-The current plan to go from zero to the ultimate ChessGPT is as follows:
+Here's a roadmap to transform ChessGPT from its inception to the ultimate chess companion:
 1. Obtain pretrained LLM or train own LLM.
 2. Collect as much chess-related text data as possible.
 3. **Training 1:** Train model on data gathered in the previous step.
@@ -44,7 +45,7 @@ The current plan to go from zero to the ultimate ChessGPT is as follows:
 23. **Release 7:** Use this version for super strong chess tutor
 
 ### Stages
-There will be several stages of training that will use very different kinds of data. We can differentiate the following stages:
+ChessGPT's training will progress through distinct stages, each focusing on different data types:
 1. **Pretrained LLM:** Basic language understanding.
 2. **Pretrained Chess LLM:** Basic chess understanding.
 3. **Finetuned Chess LLM:** Mimic chess reasoning.
@@ -56,7 +57,7 @@ There will be several stages of training that will use very different kinds of d
 9. **Expert Chess Tutor LLM:** Expert chess tutoring.
 
 ### Tasks
-To improve the model's overal chess capabilties we have devised a variety of tasks. Some of the tasks we have constructed are:
+ChessGPT's capabilities will be refined through various tasks, including:
 1. **Teach chess effectively** 
 2. **Answer chess trivia questions**
 3. **Find the best move**
@@ -65,10 +66,12 @@ To improve the model's overal chess capabilties we have devised a variety of tas
 6. **Predict next move** 
 
 ### Data
-We are experimenting with different techniques for collecing the required data for the training of ChessGPT. The following methods are being tried:
+Experimentation with diverse data collection methods is crucial for ChessGPT's success. We're exploring:
 1. **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
 2. **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
 3. **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
 4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
 5. **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
 
+
+Join us in shaping the future of ChessGPT and making chess knowledge accessible to all! Feel free to contribute and share your insights.
