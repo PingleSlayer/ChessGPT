@@ -84,7 +84,7 @@ ChessGPT's capabilities will be refined through various tasks, including:
 I suggest having the model always output its reasoning before giving its response. 
 This would make the model slightly more expensive during inference, but I believe it could massively increase its performance.
 Through the power of reason the performance of a smaller model should be similar to the performance of a much larger model making it more cost-effective overall.
-At first we should train the model on examples that have both reasoning and response, later we should find a way to train the model only based on its response and not the reasoning.
+At first we should train the model on examples that have both reasoning and response, later we should find a way to train the model only based on its response while ignoring its reasoning.
 This would mean we can train the model on a huge quantity of data for which we have no reasoning examples available.
 
 ## Data
