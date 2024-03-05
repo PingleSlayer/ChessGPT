@@ -10,7 +10,7 @@ I believe a finalized model could outperform Stockfish while being able to thoro
 I think that a community should be capable of producing enough data and compute to create an amazing model and to serve as a proof of concept of some techniques for creating specialized models.
 Some of the unique techniques I would like to test/use are:
  - Creating a wide variety of tasks to improve overal knowledge in the field
- - Using well-structured prompts for tasks
+ - Using well-structured prompts for said tasks
  - Training in multiple stages for different data for specific improvements
  - Making use of hidden tokens used for reasoning that can be ignored during training/finetuning (both to improve performance and to be able to more effectively train on unlabled data?)
 
