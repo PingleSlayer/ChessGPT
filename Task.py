@@ -56,34 +56,34 @@ class Task:
         for output in outputs.keys():
             prompt = prompt + "[" + output.upper() + "][" + outputs[output] + "]"
         return prompt
-        
-
+    
+    def extract_outputs(self, output_string):
+        output_dict = {output_type: "" for output_type in self.outputs}
+        for output_type in self.outputs:
+            opening_tag = f"[{output_type.upper()}]["
+            closing_tag = "]"
+            start_index = output_string.find(opening_tag)
+            if start_index != -1:
+                start_index += len(opening_tag)
+                end_index = output_string.find(closing_tag, start_index)
+                if end_index != -1:
+                    output_content = output_string[start_index:end_index]
+                    output_dict[output_type] = output_content
+        return output_dict
 
 def load_tasks():
     tasks = {}
-
     with open('Tasks/Tasks.csv', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile, quotechar='"')
-
         # Skip the header row
         header = next(reader)
-
         for row in reader:
-
-            task = Task(
-                int(row[0]),
-                row[2],
-                row[3], 
-                row[4],
-                row[5],  
-            )
-
+            task = Task(int(row[0]), row[2], row[3],  row[4], row[5])
             # Remove double quotes from the parsed values
             task.required_inputs = [element.strip('\"') for element in task.required_inputs]
             task.optional_inputs = [element.strip('\"') for element in task.optional_inputs]
             task.outputs = [element.strip('\"') for element in task.outputs]
             task.prompt = task.prompt.strip('\"')
-
             tasks[task.id] = task
 
     return tasks
@@ -102,5 +102,6 @@ if task_id in tasks_dict:
     print(f"Prompt: {task_info.prompt}")
     print(task_info.create_input({"fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"}))
     print(task_info.create_output({"reasoning": "hmmmm","move":"e4"}))
+    print(task_info.extract_outputs("[REASONING][hmmmm][MOVE][e4]"))
 else:
     print(f"Task with id {task_id} not found.")
