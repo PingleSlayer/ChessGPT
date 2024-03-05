@@ -20,7 +20,7 @@ The plan outlines training levels, tasks, data collection, and possible model re
 
 ### Chess Tutor
 One of my main drives for helping create this model is to be able to use it as a cost-effective expert level chess tutor. 
-I've recently gotten into chess and I feel like having such a model at my hands could massively help me getting better.
+I've recently gotten into chess and I feel like having such a model at my hands could massively help me improve.
 It could accurately and thorougly explain why certain moves are better than others, it could give feedback on my games, it could suggest what I should improve and much more.
 Also the model could be made to tailor its explanations to specific people considering their age, elo, previous conversations,...
 
