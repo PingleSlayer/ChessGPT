@@ -39,7 +39,7 @@ Other use cases could be:
 
 ### Plan
 Here's a roadmap to transform ChessGPT from its inception to the ultimate chess companion:
-- Obtain pretrained LLM or train own LLM.
+- Choose and obtain an open-source pretrained LLM.
 - Collect as much chess-related text data as possible.
 - **Training 1:** Train model on data gathered in the previous step.
 - Think of additional tasks and do prompt engineering on task prompts.
