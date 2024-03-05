@@ -39,50 +39,50 @@ Other use cases could be:
 
 ### Plan
 Here's a roadmap to transform ChessGPT from its inception to the ultimate chess companion:
-1. Obtain pretrained LLM or train own LLM.
-2. Collect as much chess-related text data as possible.
-3. **Training 1:** Train model on data gathered in the previous step.
-4. Think of additional tasks and do prompt engineering on task prompts.
-5. Collect human written examples of tasks (Reasoning + Response).
-6. Generate variations of data using chatGPT or other methods.
-7. **Training 2:** Finetune model on collected data.
-8. **Release 1:** Use model for summarizing games, explaining basic moves, and answering chess trivia questions (English only).
-9. **Training 3:** Train model on unlabeled data (Response only for Tasks 6-22).
-10. **Release 2:** Use model for evaluating positions, estimating ELO, predicting the next move, and as a chess engine at a specific ELO (English only).
-11. Translate human-written examples to common languages.
-12. **Training 4:** Finetune model on translated human-written examples.
-13. **Release 3:** Use model for all tasks from Releases 1 and 2 but in multiple languages.
-14. **Training 5:** Perform RLHF on the model for checking/improving performance.
-15. **Release 4:** Use model as the alpha version of the chess tutor.
-16. Evaluate conversations ChessGPT had with users.
-17. **Training 6:** Train model on evaluation data from the previous step.
-18. **Release 5:** Use model as the beta version of the chess tutor.
-19. Consider making the model multi-agent.
-20. **Training 7:** Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
-21. **Release 6:** Use this version as a super strong chess engine.
-22. **Training 8:** Perform RLHF on the model to check/improve performance.
-23. **Release 7:** Use this version for super strong chess tutor
+- Obtain pretrained LLM or train own LLM.
+- Collect as much chess-related text data as possible.
+- **Training 1:** Train model on data gathered in the previous step.
+- Think of additional tasks and do prompt engineering on task prompts.
+- Collect human written examples of tasks (Reasoning + Response).
+- Generate variations of data using chatGPT or other methods.
+- **Training 2:** Finetune model on collected data.
+- **Release 1:** Use model for summarizing games, explaining basic moves, and answering chess trivia questions (English only).
+- **Training 3:** Train model on unlabeled data (Response only for Tasks 6-22).
+- **Release 2:** Use model for evaluating positions, estimating ELO, predicting the next move, and as a chess engine at a specific ELO (English only).
+- Translate human-written examples to common languages.
+- **Training 4:** Finetune model on translated human-written examples.
+- **Release 3:** Use model for all tasks from Releases 1 and 2 but in multiple languages.
+- **Training 5:** Perform RLHF on the model for checking/improving performance.
+- **Release 4:** Use model as the alpha version of the chess tutor.
+- Evaluate conversations ChessGPT had with users.
+- **Training 6:** Train model on evaluation data from the previous step.
+- **Release 5:** Use model as the beta version of the chess tutor.
+- Consider making the model multi-agent.
+- **Training 7:** Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
+- **Release 6:** Use this version as a super strong chess engine.
+- **Training 8:** Perform RLHF on the model to check/improve performance.
+- **Release 7:** Use this version for super strong chess tutor
 
 ### Stages
-ChessGPT's training will progress through distinct stages, each focusing on different data types:
-1. **Pretrained LLM:** Basic language understanding.
-2. **Pretrained Chess LLM:** Basic chess understanding.
-3. **Finetuned Chess LLM:** Mimic chess reasoning.
-4. **Improved Chess LLM:** Basic chess reasoning.
-5. **Multilingual Chess LLM:** Chess reasoning in multiple languages.
-6. **Alpha Chess Tutor LLM:** Basic chess tutoring.
-7. **Beta Chess Tutor LLM:** Improved chess tutoring.
-8. **Expert Chess Player LLM:** Super strong chess engine.
-9. **Expert Chess Tutor LLM:** Expert chess tutoring.
+ChessGPT's training will progress through distinct stages, each focusing on different data types.
+- **Pretrained LLM:** Basic language understanding.
+- **Pretrained Chess LLM:** Basic chess understanding.
+- **Finetuned Chess LLM:** Mimic chess reasoning.
+- **Improved Chess LLM:** Basic chess reasoning.
+- **Multilingual Chess LLM:** Chess reasoning in multiple languages.
+- **Alpha Chess Tutor LLM:** Basic chess tutoring.
+- **Beta Chess Tutor LLM:** Improved chess tutoring.
+- **Expert Chess Player LLM:** Super strong chess engine.
+- **Expert Chess Tutor LLM:** Expert chess tutoring.
 
 ### Tasks
 ChessGPT's capabilities will be refined through various tasks, including:
-1. **Teach chess effectively** 
-2. **Answer chess trivia questions**
-3. **Find the best move**
-4. **Evaluate position**
-5. **Guess the ELO**
-6. **Predict next move**
+- **Teach chess effectively**
+- **Answer chess trivia questions**
+- **Find the best move**
+- **Evaluate position**
+- **Guess the ELO**
+- **Predict next move**
 
 ### Reasoning
 I suggest having the model always output its reasoning before giving its response. 
@@ -93,12 +93,12 @@ This would mean we can train the model on a huge quantity of data for which we h
 
 ## Data
 Experimentation with diverse data collection methods is crucial for ChessGPT's success. We're exploring:
-1. **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
-2. **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
-3. **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
-4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
-5. **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
-6. **RLHF:** for checking and improving the models capabilities we could perform some RLHF (reasoning and response)
+- **Manual writing:** the best way for gathering high-quality data (reasoning and response) is by manually writing it.
+- **ChatGPT:** some tasks are simple enough that we can create high-quality synthetic data (reasoning and response or response only) by just using ChatGPT (examples: chess trivia Q&A,...).
+- **Computer generated:** some of the tasks are so simple that we do not even need ChatGPT for creating the data (response only) (examples: find best move, evaluate position,...).
+- **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
+- **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
+- **RLHF:** for checking and improving the models capabilities we could perform some RLHF (reasoning and response)
 
 
 Join us in shaping the future of ChessGPT and making chess knowledge accessible to all! Feel free to contribute and share your insights.
