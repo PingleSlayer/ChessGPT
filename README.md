@@ -46,16 +46,16 @@ Here's a roadmap to transform ChessGPT from its inception to the ultimate chess 
 - Collect human written examples of tasks (Reasoning + Response).
 - Generate variations of data using chatGPT or other methods.
 - Translate this data to different languages.
-- **Training 2:** Finetune model on the data collected in the previous 3 steps.
+- **Training 2:** Finetune model on the data collected in the previous 3 steps (Reasoning + Response for Tasks 0-22).
 - **Release 1:** Use model for summarizing games, explaining basic moves, and answering chess trivia questions.
-- **Training 3:** Train model on unlabeled data (Response only for Tasks 6-22).
+- **Training 3:** Train model on unlabeled data (Response only for Tasks 5-22).
 - **Release 2:** Use model for evaluating positions, estimating ELO, predicting the next move, and as a chess engine at a specific ELO.
 - **Training 4:** Perform RLHF on the model for checking/improving performance.
 - **Release 3:** Use model as the alpha version of the chess tutor.
 - Evaluate conversations ChessGPT had with users.
 - **Training 5:** Train model on evaluation data from the previous step.
 - **Release 4:** Use model as the beta version of the chess tutor.
-- **Training 6:** Train model through playing games against itself (Response only for Tasks 6-11) + Train on unlabeled data (Response only for Tasks 12-22).
+- **Training 6:** Train model through playing games against itself (Response only for Tasks 5-11) + Train on unlabeled data (Response only for Tasks 12-22).
 - **Release 5:** Use this version as a super strong chess engine.
 - **Training 7:** Perform RLHF on the model to check/improve performance.
 - **Release 6:** Use this version for super strong chess tutor
