@@ -6,7 +6,7 @@ import os
 from Helpfunctions import ask_gpt
 
 
-def generate_qa_pairs_from_wikipedia(article_title, max_tokens=1024):
+def generate_qa_pairs_from_wikipedia(article_title, max_tokens=2048):
     # Set a user agent for the Wikipedia API requests
     wikipedia_headers = {'User-Agent': 'Your-User-Agent'}
     
@@ -26,7 +26,7 @@ def generate_qa_pairs_from_wikipedia(article_title, max_tokens=1024):
     # Iterate over each chunk and generate QA pairs
     for i, chunk in enumerate(chunks):
         # Use GPT-3.5-turbo to generate questions and answers
-        prompt = f"""#Task\n\nCreate as many question, reasoning and answer triples as possible based on the Wikipedia article about {article_title} (article-Chunk {i + 1}/{len(chunks)}):\n\n{chunk}\n\n#Guidelines\n\nAll your question, reasoning, and answer pairs should be in a big valid list. Every item of the list should be a valid json dictionary containing the question, the reasoning, and the answer. Always use double quotes: "..." instead of single quotes: '...' for valid json both for the property names in the dictionary as well as for the strings(values).\n\nDo not mention the wikipedia-article in your reasoning, only facts and conclusions from those that would lead you to your answer. Add reasoning if possible but if absolutely no reasoning is required, leave it empty.\n\nExample:\n[{{"question":'"How many pieces are there in a game of chess?"', "reasoning":'"I have to say how many chess pieces there are in a game of chess. The question is ambiguous; it does not specify whether it asks about distinct pieces or total pieces. Therefore, I am going to answer both possibilities."', "answer":'"In a game of chess, there are 12 distinct pieces. Both the black player and the white player have: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. \\nThis means that in a game of chess, both players start with 16 pieces, for a total of 32 pieces."'}}]"""
+        prompt = f"""# Task\nCreate as many question, reasoning and answer triplets as possible based on the Wikipedia article about {article_title} \n(article-Chunk {i + 1}/{len(chunks)}):\n{chunk}\n\n# Guidelines\nDo not ever mention the article in your reasoning, only known facts and conclusions from those that would lead you to your answer. Only add reasoning if it is absolutely necessary, otherwise leave it empty.\nOnly ask questions for which the answer is provided in the article-chunk and that have at least some relation to the game of chess. If absolutely no such questions can be asked just return an empty list.\nAll your question, reasoning, and answer pairs should be in a big valid list. Every item of the list should be a valid json dictionary containing the question, the reasoning, and the answer. Always use double quotes: "..." instead of single quotes: '...' for valid json both for the property names in the dictionary as well as for the strings(values).\n\n# Examples\n[{{"question":"How many pieces are there in a game of chess?", "reasoning":"The question is ambiguous; it does not specify whether it asks about distinct pieces or total pieces. Therefore, I am going to answer both possibilities.", "answer":"In a game of chess, there are 12 distinct pieces. Both the black player and the white player have: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. \\nThis means that in a game of chess, both players start with 16 pieces, for a total of 32 pieces."}},{{"question":"How old was Magnus Carlsen when he became world champion?", "reasoning":"Carlsen was born on the 30th of november of 1990 and he won his for world championship on the 26th of november of 2013 this means he would have been 22 years old.", "answer":"Magnus Carlsen was 22 years old when winning his first world championship."}},{{"question":"When was Magnus Carlsen born?", "reasoning":"", "answer":"He was born on 30 november 1990."}}]"""
         response = ask_gpt(prompt)
         # Parse the response string into a JSON object
         try:
@@ -96,22 +96,12 @@ def get_linked_titles(article_title):
     linked_titles = [link.title for link in page_py.links.values()]
     return linked_titles
 
-article_titles = [
-    "List of chess players",
-]
+article_titles = ["List of chess players"]
+linked_titles = get_linked_titles('List of chess players')
+article_titles.extend(linked_titles)
 
-extra_articles = set()
-
-for title in article_titles:
-    linked_titles = get_linked_titles(title)
-    if linked_titles:
-        extra_articles.update(linked_titles)
-
-article_titles.extend(extra_articles)
-print(article_titles)
-print(len(article_titles))
 
 for i, title in enumerate(article_titles):
     data = generate_qa_pairs_from_wikipedia(title)
-    extract_and_append_to_csv(data, "Tasks/Task_1.csv")
+    extract_and_append_to_csv(data, "Tasks/Task 1/Task_1.csv")
     print(f"{len(data)} qa-pairs added ({i+1}/{len(article_titles)})")
