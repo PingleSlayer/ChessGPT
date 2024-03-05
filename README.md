@@ -16,6 +16,25 @@ Some of the unique techniques I would like to test/use are:
 
 The plan outlines training levels, tasks, data collection, and possible model releases. 
 
+## Use Cases
+
+### Chess Tutor
+One of my main drives for helping create this model is to be able to use it as a cost-effective expert level chess tutor. 
+I've recently gotten into chess and I feel like having such a model at my hands could massively help me getting better.
+It could accurately and thorougly explain why certain moves are better than others, it could give feedback on my games, it could suggest what I should improve and much more.
+Also the model could be made to tailor its explanations to specific people considering their age, elo, previous conversations,...
+
+### Engine
+Another use case for this model is as an engine.
+Current engines at specific elo's feel very weird, they don't play at all like a human at that elo would.
+This model could make very human-like moves at specific elo's.
+I also believe that through the power of reason and memory we can get this model to outperform stockfish even at a relatively low parametercount.
+
+### ELO-estimation,...
+Other use cases could be:
+- **elo-estimation:** which could be helpful for quickly analyzing a player's strength.
+- ...
+
 ## Training Plan
 
 ### Plan
@@ -63,7 +82,14 @@ ChessGPT's capabilities will be refined through various tasks, including:
 3. **Find the best move**
 4. **Evaluate position**
 5. **Guess the ELO**
-6. **Predict next move** 
+6. **Predict next move**
+
+### Reasoning
+I suggest having the model always output its reasoning before giving its response. 
+This would make the model slightly more expensive during inference, but I believe it could massively increase its performance.
+Through the power of reason the performance of a smaller model should be similar to the performance of a much larger model making it more cost-effective overall.
+At first we should train the model on examples that have both reasoning and response, later we should find a way to train the model only based on its response and not the reasoning.
+This would mean we can train the model on a huge quantity of data for which we have no reasoning examples available.
 
 ## Data
 Experimentation with diverse data collection methods is crucial for ChessGPT's success. We're exploring:
@@ -73,13 +99,6 @@ Experimentation with diverse data collection methods is crucial for ChessGPT's s
 4. **Lichess library:** for some tasks we can not simply generate the data locally but we could use the Lichess library to collect the data (response only) (examples: guess ELO, guess player, predict next move,...).
 5. **Self-play:** performance on some tasks could be improved by having the model play against itself* (response only) (examples: find best move, evaluate position,...)
 6. **RLHF:** for checking and improving the models capabilities we could perform some RLHF (reasoning and response)
-
-## Reasoning
-I suggest having the model always output its reasoning before giving its response. 
-This would make the model slightly more expensive during inference, but I believe it could massively increase its performance.
-Through the power of reason the performance of a smaller model should be similar to the performance of a much larger model making it more cost-effective overall.
-At first we should train the model on examples that have both reasoning and response, later we should find a way to train the model only based on its response and not the reasoning.
-This would mean we can train the model on a huge quantity of data for which we have no reasoning examples available.
 
 
 Join us in shaping the future of ChessGPT and making chess knowledge accessible to all! Feel free to contribute and share your insights.
