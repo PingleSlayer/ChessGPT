@@ -78,12 +78,7 @@ def load_tasks():
         # Skip the header row
         header = next(reader)
         for row in reader:
-            task = Task(int(row[0]), row[2], row[3],  row[4], row[5])
-            # Remove double quotes from the parsed values
-            task.required_inputs = [element.strip('\"') for element in task.required_inputs]
-            task.optional_inputs = [element.strip('\"') for element in task.optional_inputs]
-            task.outputs = [element.strip('\"') for element in task.outputs]
-            task.prompt = task.prompt.strip('\"')
+            task = Task(int(row[0]), row[2].strip('\"'), row[3].strip('\"'),  row[4].strip('\"'), row[5].strip('\"'))
             tasks[task.id] = task
 
     return tasks
