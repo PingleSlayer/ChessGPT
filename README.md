@@ -11,7 +11,7 @@ I think that a community should be capable of producing enough data and compute 
 Some of the unique techniques I would like to test/use are:
  - Creating a wide variety of tasks to improve overal knowledge in the field
  - Using well-structured prompts for tasks
- - Training in multiple stages for specific improvements
+ - Training in multiple stages for different data for specific improvements
  - Making use of hidden tokens used for reasoning that can be ignored during training/finetuning (both to improve performance and to be able to more effectively train on unlabled data?)
 
 The plan outlines training levels, tasks, data collection, and possible model releases. 
