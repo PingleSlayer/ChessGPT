@@ -2,7 +2,7 @@
 
 ## Overview
 This project aims to help create a versatile chess Language Model (LLM) capable of various tasks, from basic chess understanding to advanced tutoring.
-I do not have the hardware nor the skills to create such a model all by myself, but I hope to help create some of the frameworks and the data for achieving this model. 
+I do not have the hardware nor the skills to create such a model all by myself, but I hope to help create some of the frameworks and data for achieving this model. 
 This project is only in its starting phase and is aimed to be an open-source community project, so if you have any ideas/tips feel free to contribute!
 
 I believe a finalized model could outperform Stockfish while being able to thoroughly explain why it makes certain decisions. 
