@@ -1,341 +1,343 @@
 Id,Question,Reasoning,Reply 
 0,How many pieces are there in a game of chess?,"The question is ambiguous, it does not specify whether it asks about distinct pieces or total pieces. Therefore I am going to answer both possibilities.","In a game of chess there are 12 distinct pieces. Both the black player and the white player have: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights and 8 pawns. \n This means that in a game of chess both players start with 16 pieces, for a total of 32 pieces."
-1,Where was Viswanathan Anand born?,The article mentions Viswanathan Anand as being born in India.,Viswanathan Anand was born in India.
-2,In which country was Nana Alexandria born?,The article states that Nana Alexandria was born in Georgia.,Nana Alexandria was born in Georgia.
-3,What is Jacob Aagaard's nationality?,Jacob Aagaard is listed with Denmark and Scotland as his nationalities in the article.,Jacob Aagaard is of Danish and Scottish nationality.
-4,When was Semyon Alapin born?,The article provides information about Semyon Alapin being born in 1856.,Semyon Alapin was born in 1856.
-5,What is the birth year of Evgeny Agrest?,Evgeny Agrest's birth year is mentioned in the article as 1966.,Evgeny Agrest was born in 1966.
-6,Where was Manuel Aaron born?,Manuel Aaron's place of birth is listed in the article as India.,Manuel Aaron was born in India.
-7,Which chess player was born in 2010?,"From the list provided in the article, Tanitoluwa Adewumi was born in 2010.",Tanitoluwa Adewumi was born in 2010.
-8,What nationality was Adolf Albin?,The article mentions Adolf Albin as being from Romania.,Adolf Albin was of Romanian nationality.
-9,Where was Ulf Andersson born?,The question asks for the birthplace of Ulf Andersson.,Ulf Andersson was born in Sweden.
-10,What is the birth year of Adolf Anderssen?,The question is about the birth year of Adolf Anderssen.,Adolf Anderssen was born in 1818.
-11,In which country was Ketevan Arakhamia-Grant born?,The question specifically asks for the birth country of Ketevan Arakhamia-Grant.,Ketevan Arakhamia-Grant was born in Georgia.
-12,When was Lev Aptekar born?,The question is about the birth year of Lev Aptekar.,Lev Aptekar was born in 1936.
-13,Which player is from Latvia and Australia?,The question seeks the player who has connections to both Latvia and Australia.,Romanas Arlauskas is from Lithuania and Australia.
-14,Where was Anatoly Bannik from?,,Anatoly Bannik was from Ukraine.
-15,In which country was Christian Bauer born?,,Christian Bauer was born in France.
-16,What is the birth year of Julio Balparda?,,Julio Balparda was born around 1900.
-17,Which chess player was born in 1946?,,Michael Basman was born in 1946.
-18,Where was Albert Becker from?,,"Albert Becker was from Austria, Germany, and Argentina."
-19,What is the birth year of John Bartholomew?,,John Bartholomew was born in 1986.
-20,Where was Pal Benko from?,,"Pal Benko was from France, Hungary, and the US."
-21,In which country was Emanuel Berg born?,,Emanuel Berg was born in Sweden.
-22,What is the birth year of Slim Belkhodja?,,Slim Belkhodja was born in 1962.
-23,Which chess player was from Russia and Israel?,,Dina Belenkaya was from Russia and Israel.
-24,Where was Katarina Beskow from?,,Katarina Beskow was from Sweden.
-25,What is the birth year of Louis Betbeder Matibet?,,Louis Betbeder Matibet was born in 1901.
-26,In which country was Siegmund Beutum born?,,Siegmund Beutum was born in Austria.
-27,Where was Vinay Bhat born?,,Vinay Bhat was born in the US.
-28,What is the birth year of Carlos Bielicki?,,Carlos Bielicki was born in 1940.
-29,When did Horace Bigelow pass away?,,Horace Bigelow passed away in 1980.
-30,From which country was Paul Rudolf von Bilguer?,,Paul Rudolf von Bilguer was from Germany.
-31,Where is Nathan Birnboim from?,,Nathan Birnboim is from Israel.
-32,What is the birth year of Klaus Bischoff?,,Klaus Bischoff was born in 1961.
-33,Where was Arthur Bisguier from?,,Arthur Bisguier was from the US.
-34,Where was Arianne Caoili born?,The article mentions that Arianne Caoili was from Australia.,Arianne Caoili was born in Australia.
-35,In which year was Bernt Ove's born?,The article only provides information about the birth year of Bernt Ove Boe.,Bernt Ove Boe was born in 1979.
-36,What is the nationality of Antonela Bunea?,The article states that Antonela Bunea was from Romania.,Antonela Bunea is Romanian.
-37,Which player had dual citizenship from US and Italy?,The article mentions a player with dual citizenship. Only one player fits this description: Fabiano Caruana.,Fabiano Caruana had dual citizenship from the US and Italy.
-38,What is the birth year of Ruth Cardoso?,"The article provides information about the birth years of several players, including Ruth Cardoso.",Ruth Cardoso was born in 1934.
-39,Where was Carl Schlechter born?,The article does not mention Carl Schlechter at all.,
-40,When was Rudolf Charousek born?,"The article provides the birth and death years of Rudolf Charousek, therefore we can determine his birth year.",Rudolf Charousek was born in 1873.
-41,Where was Alexander Chernin born?,"The article mentions the countries associated with Alexander Chernin, allowing us to infer his place of birth.",Alexander Chernin was born in Ukraine.
-42,"Who was born before 1960, Chang Tung Lo or Tykhon Cherniaiev?","The birth year of Chang Tung Lo is not specified, but it is stated that Tykhon Cherniaiev was born in 2010.",Chang Tung Lo was born before 1960.
-43,In which country was Stefano Tatai born?,"Stefano Tatai is not mentioned in the provided excerpt; therefore, this question cannot be answered based on the given information.",
-44,When was Frederick Deacon born?,"The birth and death years of Frederick Deacon are mentioned in the article, directly providing the information needed to answer the question.",Frederick Deacon was born in 1829.
-45,Where was Gösta Danielsson from?,"The nationality of Gösta Danielsson is listed in the article, therefore it is possible to directly answer this question.",Gösta Danielsson was from Sweden.
-46,In which year was Elena Donaldson born?,"The birth and death years of Elena Donaldson are provided in the article, giving the necessary information to answer the question.",Elena Donaldson was born in 1957.
-47,How many chess players in the list were born in Russia?,"By going through the list and identifying the players with Russia listed as their birth country, the total count of Russian-born players can be determined.",There are 13 chess players in the list who were born in Russia.
-48,What are the birth and death years of Mato Damjanović?,"The article provides the birth and death years for Mato Damjanović, allowing for an exact answer to this question.",Mato Damjanović was born in 1927 and passed away in 2011.
-49,Where was Nana Dzagnidze born?,"The article states that Nana Dzagnidze is from Georgia, which means she was born in Georgia.",Nana Dzagnidze was born in Georgia.
-50,What is the birth year of Ding Liren?,The article mentions that Ding Liren was born in China in 1992.,Ding Liren was born in 1992.
-51,In which country was Marsel Efroimski born?,"Based on the information provided, Marsel Efroimski was born in Israel.",Marsel Efroimski was born in Israel.
-52,What is the nationality of Louis Eisenberg?,The article states that Louis Eisenberg was from Ukraine and later moved to the United States.,Louis Eisenberg was originally from Ukraine and later moved to the United States.
-53,When was John Emms born?,"According to the article, John Emms was born in 1967.",John Emms was born in 1967.
-54,Where was Ludwig Engels born?,Ludwig Engels was born in Germany and later moved to Brazil.,Ludwig Engels was born in Germany.
-55,What are the birth years of Andrey Esipenko?,The article mentions that Andrey Esipenko was born in 2002.,Andrey Esipenko was born in 2002.
-56,Which countries did Wilhelm Ernst represent in chess?,"Based on the information provided, Wilhelm Ernst was from Germany.",Wilhelm Ernst represented Germany in chess.
-57,Where was Győző Exner born?,"According to the article, Győző Exner was born in Hungary.",Győző Exner was born in Hungary.
-58,Where was Ben Finegold born?,Ben Finegold was born in the United States based on the information provided in the article.,Ben Finegold was born in the US.
-59,In which country was Reuben Fine a chess player?,Reuben Fine was a chess player in the United States as indicated in the article.,Reuben Fine was a chess player in the US.
-60,What is the birth year of Alireza Firouzja?,Alireza Firouzja was born in 2003 as stated in the article.,Alireza Firouzja was born in 2003.
-61,Where was Laurent Fressinet born?,"Based on the information provided in the article, Laurent Fressinet was born in France.",Laurent Fressinet was born in France.
-62,Which chess player was born in Paraguay?,Zenon Franco was born in Paraguay according to the information given in the article.,Zenon Franco was born in Paraguay.
-63,"What are the birth years of the chess players, Virgilio Fenoglio and Albert Fox?",Virgilio Fenoglio was born in 1902 and passed away in 1990 as per the article. Albert Fox was born in 1881 and died in 1964 based on the information provided.,Virgilio Fenoglio was born in 1902 and died in 1990. Albert Fox was born in 1881 and died in 1964.
-64,Where was Henryk Friedman born?,The question asks about the birthplace of Henryk Friedman.,Henryk Friedman was born in Poland.
-65,What was the nationality of Alexander Fritz?,The question asks about the nationality of Alexander Fritz.,Alexander Fritz was from Germany.
-66,In which year was Martin Severin From born?,The question asks about the birth year of Martin Severin From.,Martin Severin From was born in 1828.
-67,What is the birth year of Achilles Frydman?,The question asks about the birth year of Achilles Frydman.,Achilles Frydman was born in 1905.
-68,Where was Paulino Frydman born?,The question asks about the birthplace of Paulino Frydman.,Paulino Frydman was born in Poland.
-69,What is the nationality of Ľubomír Ftáčnik?,The question asks about the nationality of Ľubomír Ftáčnik.,"Ľubomír Ftáčnik is from Czechoslovakia, now Slovakia."
-70,Where was Semyon Furman from?,The question asks about the nationality of Semyon Furman.,Semyon Furman was from Russia.
-71,When was Roy Fyllingen born?,The question asks about the birth year of Roy Fyllingen.,Roy Fyllingen was born in 1975.
-72,What is the birth year of Merab Gagunashvili?,The question asks about the birth year of Merab Gagunashvili.,Merab Gagunashvili was born in 1985.
-73,Where was Joseph Gallagher born?,The question asks about the birthplace of Joseph Gallagher.,Joseph Gallagher was born in England.
-74,What is the nationality of Alisa Galliamova?,The question asks about the nationality of Alisa Galliamova.,Alisa Galliamova is from Russia.
-75,Where was Surya Shekhar Ganguly born?,The question asks about the birthplace of Surya Shekhar Ganguly.,Surya Shekhar Ganguly was born in India.
-76,In which year was Nona Gaprindashvili born?,The question asks about the birth year of Nona Gaprindashvili.,Nona Gaprindashvili was born in 1941.
-77,What is the birth year of Vugar Gashimov?,The question asks about the birth year of Vugar Gashimov.,Vugar Gashimov was born in 1986.
-78,Where was Anna Gasik born?,The question asks about the birthplace of Anna Gasik.,Anna Gasik was born in Poland.
-79,What is the nationality of Boris Gelfand?,The question asks about the nationality of Boris Gelfand.,"Boris Gelfand is from Belarus, now Israel."
-80,Where was Svetozar Gligorić from?,The article mentions that Svetozar Gligorić was from Serbia.,Svetozar Gligorić was from Serbia.
-81,What is the nationality of Carl Goering?,The article states that Carl Goering was from Germany.,Carl Goering was from Germany.
-82,In which country was Samuel Gold born?,It is mentioned in the article that Samuel Gold was from Hungary.,Samuel Gold was born in Hungary.
-83,Where was Mikhail Golubev born?,"According to the article, Mikhail Golubev was born in Ukraine.",Mikhail Golubev was born in Ukraine.
-84,What is the birth year of Jayson Gonzales?,The article provides the information that Jayson Gonzales was born in 1969.,Jayson Gonzales was born in 1969.
-85,Which chess players were born in 1976?,"From the article, we can see that Danny Gormally was born in 1976.",Danny Gormally was born in 1976.
-86,Where was Alexander Grischuk born?,The article mentions that Alexander Grischuk is from Russia.,Alexander Grischuk was born in Russia.
-87,What is the nationality of Efstratios Grivas?,The article states that Efstratios Grivas is from Greece.,Efstratios Grivas is from Greece.
-88,What are the birth and death years of Henri Grob?,The article mentions that Henri Grob was born in 1904 and passed away in 1974.,Henri Grob was born in 1904 and died in 1974.
-89,In which countries did James Grundy have citizenship?,"According to the article, James Grundy was from England and the US.",James Grundy had citizenship in England and the US.
-90,Where was Carlos Guimard from?,The article mentions Carlos Guimard was from Argentina.,Carlos Guimard was from Argentina.
-91,What is the birth year of Abhijeet Gupta?,"According to the article, Abhijeet Gupta was born in 1989.",Abhijeet Gupta was born in 1989.
-92,Where was Bukhuti Gurgenidze from?,"According to the article, Bukhuti Gurgenidze was from Georgia.",Bukhuti Gurgenidze was from Georgia.
-93,What are the countries Mikhail Gurevich represented in chess?,"The article mentions that Mikhail Gurevich represented Ukraine, Belgium, and Turkey.","Mikhail Gurevich represented Ukraine, Belgium, and Turkey in chess."
-94,Where was Anna Hahn born?,"Based on the article, Anna Hahn was born in Latvia.",Anna Hahn was born in Latvia.
-95,What are the birth and death years of Carl Hamppe?,The article states that Carl Hamppe was born in 1814 and passed away in 1876.,Carl Hamppe was born in 1814 and died in 1876.
-96,Who is known as the Quantum Kid?,The article mentions that Jon Ludvig Hammer is known as the Quantum Kid.,Jon Ludvig Hammer is known as the Quantum Kid.
-97,What are the birth and death years of Milton Hanauer?,"Based on the article, Milton Hanauer was born in 1908 and passed away in 1988.",Milton Hanauer was born in 1908 and died in 1988.
-98,Where was Hermann von Hanneken from?,"According to the article, Hermann von Hanneken was from Germany.",Hermann von Hanneken was from Germany.
-99,In which country did time Grandmaster Khosro Harandi pass away?,The article states that Khosro Harandi passed away in Iran.,Khosro Harandi passed away in Iran.
-100,What is the birth year of Dronavalli Harika?,"According to the article, Dronavalli Harika was born in 1991.",Dronavalli Harika was born in 1991.
-101,Where was Max Harmonist born?,"Based on the article, Max Harmonist was born in Germany.",Max Harmonist was born in Germany.
-102,What are the citizenships of Daniel Harrwitz?,The article mentions that Daniel Harrwitz had citizenship in Germany and France.,Daniel Harrwitz had citizenship in Germany and France.
-103,Where was Arnaud Hauchard born?,"Based on the article, Arnaud Hauchard was born in France.",Arnaud Hauchard was born in France.
-104,What is the birth year of Stewart Haslinger?,"According to the article, Stewart Haslinger was born in 1981.",Stewart Haslinger was born in 1981.
-105,Where was Kornél Havasi from?,The article mentions that Kornél Havasi was from Hungary.,Kornél Havasi was from Hungary.
-106,Where was Tiger Hillarp Persson born?,"The question asks for the birthplace of Tiger Hillarp Persson, which is provided in the article.",Tiger Hillarp Persson was born in Sweden.
-107,What is the nationality of Philpp Hirschfeld?,"The question asks for the nationality of Philipp Hirschfeld, which is provided in the article.",Philipp Hirschfeld was German.
-108,What are the birth years of Jovanka Houska and Mark Hebden?,"The question asks for the birth years of two different chess players, which are provided in the article.",Jovanka Houska was born in 1980 and Mark Hebden was born in 1958.
-109,In which country was Hou Yifan born?,"The question asks for the birth country of Hou Yifan, which is provided in the article.",Hou Yifan was born in China.
-110,"Who was born first, Johann Hjartarson or Moriz Henneberger?",The question compares the birth years of two chess players to determine who was born first.,Moriz Henneberger was born before Johann Hjartarson.
-111,What was the nationality of Moses Hirschel?,The question asks for the nationality of Moses Hirschel based on the information provided in the article.,Moses Hirschel was German.
-112,When was Bartłomiej Heberla born?,"The question asks for the birth year of Bartłomiej Heberla, which is provided in the article.",Bartłomiej Heberla was born in 1985.
-113,Which chess player was born in Lithuania?,The question asks to identify a chess player's birth country based on the information provided in the article.,Arved Heinrichsen was born in Lithuania.
-114,Where was Harriet Hunt born?,The article states that Harriet Hunt was born in England.,Harriet Hunt was born in England.
-115,In which country was Leif Erlend Johannessen born?,Leif Erlend Johannessen was born in Norway.,Leif Erlend Johannessen was born in Norway.
-116,What is the birth year of Krunoslav Hulak?,The article provides Krunoslav Hulak's birth year as 1951.,Krunoslav Hulak was born in 1951.
-117,Where was Carlos Jáuregui born?,Carlos Jáuregui was born in Chile.,Carlos Jáuregui was born in Chile.
-118,When was Alexander Ipatov born?,The article states Alexander Ipatov was born in 1993.,Alexander Ipatov was born in 1993.
-119,What is the birth year of Walter John?,The article provides Walter John's birth year as 1879.,Walter John was born in 1879.
-120,Where was Koneru Humpy born?,Koneru Humpy was born in India.,Koneru Humpy was born in India.
-121,Where was Alexander Ivanov born?,Alexander Ivanov was born in the US.,Alexander Ivanov was born in the US.
-122,What is the birth year of Egil Jacobsen?,The article provides Egil Jacobsen's birth year as 1897.,Egil Jacobsen was born in 1897.
-123,In which country was Dmitri Jakovenko born?,Dmitri Jakovenko was born in Russia.,Dmitri Jakovenko was born in Russia.
-124,Where was Gata Kamsky born?,"The question asks for the birthplace of Gata Kamsky, so we should provide that information from the article. ",Gata Kamsky was born in Russia.
-125,In which country was Anatoly Karpov born?,,Anatoly Karpov was born in Russia.
-126,What is the birth year of Magnus Kann?,"To answer this question, we need to look at the provided list and find the birth year of Magnus Kann.",Marcus Kann was born in 1820.
-127,Where was Rustam Kasimdzhanov born?,The question asks for the birthplace of Rustam Kasimdzhanov. We can find this information in the article.,Rustam Kasimdzhanov was born in Uzbekistan.
-128,When was Sergey Karjakin born?,This question is asking for the birth year of Sergey Karjakin.,Sergey Karjakin was born in 1990.
-129,Where was Genrikh Kasparyan from?,"The question asks for the origin of Genrikh Kasparyan, so the answer should include details from the article.",Genrikh Kasparyan was from Armenia.
-130,What is the birth year of Mona May Karff?,"To answer this question, we need to refer to the provided list for the birth year of Mona May Karff.",Mona May Karff was born in 1914.
-131,Where was Osmo Kaila born?,This question requires information about Osmo Kaila's birthplace from the article.,Osmo Kaila was born in Finland.
-132,When was Rudolf Keller born?,"The question pertains to the birth year of Rudolf Keller, which can be found in the article.",Rudolf Keller was born in 1917.
-133,Which country was Ilya Kan from?,"This question asks for the nationality of Ilya Kan, so the answer should indicate his country of origin.",Ilya Kan was from Russia.
-134,What is the birth year of Isaac Kashdan?,"To answer this question, we need to find the birth year of Isaac Kashdan from the provided list.",Isaac Kashdan was born in 1905.
-135,Where was Brian Kelly born?,The question requires knowledge about the birthplace of Brian Kelly from the article.,Brian Kelly was born in Ireland.
-136,In which country was Emil Kemény born?,"This question asks for the birth country of Emil Kemény, so the answer should include that specific information.",Emil Kemény was born in Hungary.
-137,What is the birth year of Hermann Keidanski?,"To answer this question, we need to refer to the provided list for the birth year of Hermann Keidanski.",Hermann Keidanski was born in 1865.
-138,Where was Raymond Keene born?,"The question asks for the birthplace of Raymond Keene, so we should provide that information from the article.",Raymond Keene was born in England.
-139,When was Paul Keres born?,"This question is asking for the birth year of Paul Keres, which can be found in the article.",Paul Keres was born in 1916.
-140,Where was Natalia Khoudgarian born?,,Natalia Khoudgarian was born in Russia.
-141,Which chess player was from Estonia and France?,,Lionel Kieseritzky was from Estonia and France.
-142,In which year was Viktor Knorre born?,,Viktor Knorre was born in 1840.
-143,What was the nationality of Alexander Koblencs?,,Alexander Koblencs was from Latvia.
-144,Where was Artur Kogan born?,,Artur Kogan was born in Ukraine.
-145,What were the nationalities of Georges Koltanowski?,,Georges Koltanowski was from Belgium and US.
-146,Which chess player was born in Moldova?,,Gary Koshnitsky was born in Moldova.
-147,When was Alexandra Kosteniuk born?,,Alexandra Kosteniuk was born in 1984.
-148,To which countries did Imre König belong?,,"Imre König belonged to Hungary, Yugoslavia, England, and US."
-149,Where was Gary Koshnitsky active as a chess player?,,Gary Koshnitsky was active as a chess player in Australia.
-150,Where was Vlatko Kovačević born?,The question is asking about the birthplace of Vlatko Kovačević.,Vlatko Kovačević was born in Croatia.
-151,In which year was Vladimir Kramnik born?,The question asks for the birth year of Vladimir Kramnik.,Vladimir Kramnik was born in the year 1975.
-152,What is the nationality of Frank Lamprecht?,The question refers to the nationality of a chess player.,Frank Lamprecht is from Germany.
-153,Where was Max Lange from?,The question asks about the origin of Max Lange.,Max Lange was from Germany.
-154,When was Martyn Kravtsiv born?,The question seeks the birth year of Martyn Kravtsiv.,Martyn Kravtsiv was born in 1990.
-155,What are the nationalities of Gennady Kuzmin?,The question inquires about the nationalities of Gennady Kuzmin.,Gennady Kuzmin was from Russia.
-156,Where was Salomon Langlebe from?,The question is about the origin of Salomon Langlebe.,Salomon Langlebe was from an unknown location.
-157,When was Igor Kurnosov born?,The question asks for the birth year of Igor Kurnosov.,Igor Kurnosov was born in 1985.
-158,What is the birth year of Konstantin Landa?,The question seeks to know the birth year of Konstantin Landa.,Konstantin Landa was born in the year 1972.
-159,Who was born in the year 1871?,The question aims to identify the chess player born in a specific year.,Both Adolf Kramer and Paul Krüger were born in the year 1871.
-160,Where was Emanuel Lasker born?,Emanuel Lasker was born in Germany.,"Emanuel Lasker was born in Germany, Russia, and later naturalized in the US."
-161,In which country was Bent Larsen born?,Bent Larsen was born in Denmark.,Bent Larsen was born in Denmark.
-162,Who was a chess player from Italy?,Giovanni Leonardo was a chess player from Italy.,"Giovanni Leonardo was a chess player from Italy, born in 1542."
-163,What nationality is Frédéric Lazard?,Frédéric Lazard was from France.,Frédéric Lazard was from France.
-164,When was Darwin Laylo born?,Darwin Laylo was born in 1980.,Darwin Laylo was born in 1980 in the Philippines.
-165,What is the birth year of Lin Weiguo from China?,The article states that Lin Weiguo was born in 1970.,Lin Weiguo from China was born in 1970.
-166,In which country was Paul Lipke born?,Paul Lipke was born in Germany as mentioned in the article.,Paul Lipke was born in Germany.
-167,Which chess player was born in 1923 and was from Ukraine?,"Isaac Lipnitsky, as listed in the article, was born in Ukraine in 1923.",Isaac Lipnitsky was from Ukraine and was born in 1923.
-168,"What nationality was Samuel Lipschütz, who lived from 1863 to 1905?","According to the article, Samuel Lipschütz was from Hungary and later moved to the US.",Samuel Lipschütz was from Hungary and the US.
-169,What are the birth and death years of Georgy Lisitsin from Russia?,The article states that Georgy Lisitsin was born in 1909 and died in 1972.,Georgy Lisitsin from Russia was born in 1909 and died in 1972.
-170,"Which player was born in 1887 and had connections to Ukraine, Germany, and England?","Paul List, mentioned in the article, was born in 1887 and had connections to Ukraine, Germany, and England.","Paul List was born in 1887 and had connections to Ukraine, Germany, and England."
-171,When was Marta Litinskaya-Shul born and from which country?,"As per the article, Marta Litinskaya-Shul was born in Ukraine and is currently living there.",Marta Litinskaya-Shul was born in Ukraine.
-172,Which chess player from England lived from 1931 to 2009?,"According to the article, John Littlewood lived from 1931 to 2009 in England.",John Littlewood from England lived from 1931 to 2009.
-173,What is the birth year of Liu Shilan from China?,The article mentions that Liu Shilan was born in 1962 in China.,Liu Shilan from China was born in 1962.
-174,Where was Liu Wenzhe from and what were his years of birth and death?,Liu Wenzhe was from China and lived between 1940 and 2010 according to the article.,Liu Wenzhe was from China and was born in 1940 and passed away in 2010.
-175,Which chess player born in 1871 was from Austria?,"Leopold Löwy, Jr who lived after 1909, is listed as being from Austria in the article.","Leopold Löwy, Jr, born in 1871, was from Austria."
-176,When did Luis Ramirez Lucena live and which country did he belong to?,"As per the article, Luis Ramirez Lucena, who lived between c. 1465 and c. 1530, was from Spain.",Luis Ramirez Lucena from Spain lived between c. 1465 and c. 1530.
-177,Which chess player from Russia was born in 1980?,The article mentions that Vladimir Malakhov from Russia was born in 1980.,Vladimir Malakhov from Russia was born in 1980.
-178,Who was a chess player from Germany born in 1969?,Thomas Luther from Germany was born in 1969 according to the article.,Thomas Luther is a chess player from Germany who was born in 1969.
-179,Where was Hrant Melkumyan born?,The article states that Hrant Melkumyan was born in Armenia.,Hrant Melkumyan was born in Armenia.
-180,Which chess player was born in 1974?,The article mentions that Maria Manakova was born in 1974.,Maria Manakova was born in 1974.
-181,In which country was Dragiša Blagojević born?,The article does not provide information about Dragiša Blagojević.,
-182,Who was born in 1967 and is from England?,"From the article, it is stated that Neil McDonald was born in 1967 and is from England.",Neil McDonald was born in 1967 and is from England.
-183,When was Napoleon Marache born?,The article states that Napoleon Marache was born in 1818.,Napoleon Marache was born in 1818.
-184,Which chess player was born in 1911 and had connections to Belarus and Russia?,The article mentions that Isaak Mazel was born in 1911 and had connections to Belarus and Russia.,Isaak Mazel was born in 1911 and had connections to Belarus and Russia.
-185,Where was Philidor born?,The article does not provide information about Philidor.,
-186,Who was from Greece and born in 1983?,Dimitrios Mastrovasilis is mentioned in the article as being from Greece and born in 1983.,Dimitrios Mastrovasilis was from Greece and born in 1983.
-187,What is the nationality of Julio Bolbochán?,The article does not provide information about Julio Bolbochán.,
-188,Which chess player was born in 1964 and is from Chile?,The article states that Beatriz Marinello was born in 1964 and is from Chile.,Beatriz Marinello was born in 1964 and is from Chile.
-189,In which country was Igor Miladinović born?,"Igor Miladinović was born in Serbia, as mentioned in the article.",Igor Miladinović was born in Serbia.
-190,What is the birth year of Tony Miles?,"Tony Miles was born in 1955, as indicated in the article.",Tony Miles was born in 1955.
-191,Which player was born in England in 1906?,"Stuart Milner-Barry was born in England in 1906, as per the information in the article.",Stuart Milner-Barry was born in England in 1906.
-192,Where was Jack Mizzi born?,"Jack Mizzi was born in Malta, according to the details provided in the article.",Jack Mizzi was born in Malta.
-193,What is the birth year of Mario Monticelli?,"Mario Monticelli was born in 1902, as mentioned in the article.",Mario Monticelli was born in 1902.
-194,Which player was born in Scotland in 1962?,"Paul Motwani was born in Scotland in 1962, as stated in the article.",Paul Motwani was born in Scotland in 1962.
-195,When was César Muñoz born?,"César Muñoz was born in 1929, according to the information in the article.",César Muñoz was born in 1929.
-196,What are the birth countries of Maria Teresa Mora?,"María Teresa Mora was born in Cuba, as mentioned in the article.",María Teresa Mora was born in Cuba.
-197,Who was born in Austria in 1896?,"Hans Müller was born in Austria in 1896, based on the details provided in the article.",Hans Müller was born in Austria in 1896.
-198,In which country was Piotr Murdzia born?,"Piotr Murdzia was born in Poland, as indicated in the article.",Piotr Murdzia was born in Poland.
-199,Where was Niaz Murshed born?,The article states that Niaz Murshed was born in Bangladesh.,Niaz Murshed was born in Bangladesh.
-200,What is the birth year of Anna Muzychuk?,The article mentions that Anna Muzychuk was born in 1990.,Anna Muzychuk was born in 1990.
-201,In which country was Hikaru Nakamura born?,The article states that Hikaru Nakamura was born in Japan.,Hikaru Nakamura was born in Japan.
-202,Which chess player was born in the year 1904 and passed away in 1985?,The article mentions that Federico Norcia was born in 1904 and passed away in 1985.,Federico Norcia was born in 1904 and passed away in 1985.
-203,What is the birth country of Aron Nimzowitsch?,The article states that Aron Nimzowitsch was born in Latvia.,Aron Nimzowitsch was born in Latvia.
-204,When was Adolf Georg Olland born?,,Adolf Georg Olland was born in 1867.
-205,Where was Mircea Pârligras born?,,Mircea Pârligras was born in Romania.
-206,What is the birth year of Kevin O'Connell?,,Kevin O'Connell was born in 1949.
-207,Which country was Mladen Palac born in?,,Mladen Palac was born in Croatia.
-208,In which year was Leif Øgaard born?,,Leif Øgaard was born in 1952.
-209,Where was Mikhailo Oleksienko born?,,Mikhailo Oleksienko was born in Ukraine.
-210,What is the birth year of Nikolay Novotelnov?,,Nikolay Novotelnov was born in 1911.
-211,In which country was Yannick Pelletier born?,The article states that Yannick Pelletier was born in 1976 which is a fact that indicates his birth country.,Yannick Pelletier was born in Switzerland.
-212,What was the nationality of Frederick Perrin?,The article mentions that Frederick Perrin was from England and the US.,Frederick Perrin was English and US.
-213,Which chess player was born in 1794?,The article provides the birth year of chess players which helps identify the player born in 1794.,Alexander Petrov was born in 1794.
-214,In which year was Georg Marco born?,"Georg Marco is not mentioned in the provided excerpt, thus, this question cannot be answered.",
-215,Where was Lev Polugaevsky born and what was his nationality?,"The question asks about Lev Polugaevsky's birthplace and nationality, both of which are provided in the article chunk.",Lev Polugaevsky was born in Belarus and was of Russian nationality.
-216,In which country was Teimour Radjabov born?,"The question asks specifically about Teimour Radjabov's birth country, which can be found in the article chunk.",Teimour Radjabov was born in Azerbaijan.
-217,What were the nationalities of Domenico Ponziani?,"The question inquires about Domenico Ponziani's nationalities, as mentioned in the article chunk.",Domenico Ponziani was of Italian nationality.
-218,When was R Praggnanandhaa born?,"The question seeks the birth year of R Praggnanandhaa, which is provided in the article chunk.",R Praggnanandhaa was born in 2005.
-219,Where was Peter Potemkine born and what were his nationalities?,"The question asks for both Peter Potemkine's birthplace and nationalities, which are available in the article chunk.",Peter Potemkine was born in Russia and was of French nationality.
-220,What was the birth year of Atousa Pourkashiyan?,"The question is about Atousa Pourkashiyan's birth year, a fact that is stated in the article chunk.",Atousa Pourkashiyan was born in 1988.
-221,In which countries did Cecil Purdy play chess?,"The question refers to Cecil Purdy's chess-playing locations, which are mentioned in the article chunk.",Cecil Purdy played chess in New Zealand and Australia.
-222,Where was Nukhim Rashkovsky born and when?,"The question seeks information on Nukhim Rashkovsky's birthplace and birth year, both of which are available in the article chunk.",Nukhim Rashkovsky was born in Russia in 1946.
-223,What nationalities did Borki Predojević hold?,"The question concerns Borki Predojević's nationalities, details that can be found in the article chunk.",Borki Predojević held Bosnian nationality.
-224,When was Richárd Rapport born?,"The question is about Richárd Rapport's birth year, a detail that is present in the article chunk.",Richárd Rapport was born in 1996.
-225,Where was Richard Réti born?,"From the provided information, we know that Richard Réti was born in Austria-Hungary.",Richard Réti was born in Austria-Hungary.
-226,What countries did Salome Reischer represent in chess?,"Salome Reischer represented Austria, Palestine, and the US in chess.","Salome Reischer represented Austria, Palestine, and the US in chess."
-227,What is the birth year of Salme Rootare?,"From the information given, we can determine that Salme Rootare was born in 1913.",Salme Rootare was born in 1913.
-228,Who is the chess player born in 1842 and passed away in 1922?,"Based on the details provided, Jakob Rosanes was the chess player born in 1842 and passed away in 1922.",Jakob Rosanes was the chess player born in 1842 and passed away in 1922.
-229,In which country was Leon Rosen born?,Leon Rosen was born in Poland according to the information provided.,Leon Rosen was born in Poland.
-230,What is the nationality of Fred Reinfeld?,"Fred Reinfeld was from the US, as indicated in the given information.",Fred Reinfeld was from the US.
-231,Where was Mikhail Rytshagov born?,The question is asking for the birthplace of Mikhail Rytshagov.,Mikhail Rytshagov was born in Estonia.
-232,In which country was Antonius van Foreest born?,The question is about the birth country of Antonius van Foreest.,Antonius van Foreest was born in the Netherlands.
-233,What is the nationality of Mary Rudge?,The question is asking for the nationality of Mary Rudge.,Mary Rudge was English.
-234,When was José Rubinstein born?,The question is asking for the birth year of José Rubinstein.,José Rubinstein was born in 1940.
-235,Is Emanuel Rubinstein's birth year known?,The question is asking about the availability of information on Emanuel Rubinstein's birth year.,Emanuel Rubinstein's birth year is not known.
-236,Where was Luis Augusto Sánchez from?,The question is asking for the origin of Luis Augusto Sánchez.,Luis Augusto Sánchez was from Colombia.
-237,What is the birth year of Albert Sandrin Jr.?,The question is asking for the birth year of Albert Sandrin Jr.,Albert Sandrin Jr. was born in 1923.
-238,When was Raúl Sanguineti born?,The question is asking for the birth year of Raúl Sanguineti.,Raúl Sanguineti was born in 1933.
-239,Which country was Yousof Safvat from?,The question is asking for the origin of Yousof Safvat.,Yousof Safvat was from Iran.
-240,In which country was Friedrich (Fritz) Sämisch born?,The question is about the birth country of Friedrich (Fritz) Sämisch.,Friedrich (Fritz) Sämisch was born in Germany.
-241,Where was Anthony Santasiere from?,"The question asks about the nationality of a chess player, which is provided in the article chunk.",Anthony Santasiere was from the US.
-242,In which year was Nihal Sarin born?,"The question directly asks for the birth year of a chess player, which is clearly stated in the article chunk.",Nihal Sarin was born in 2004.
-243,Which country was Zoltan Sarosy originally from?,"The question seeks information about the country of origin of a chess player, and this information is available in the article chunk.",Zoltan Sarosy was originally from Hungary.
-244,What was the nationality of Jacob Sarratt?,"The question asks about the nationality of a chess player, and this information is provided in the article chunk.",Jacob Sarratt was from England.
-245,When was Jonathan Sarfati born?,"The question inquires about the birth year of a chess player, information that can be found in the article chunk.",Jonathan Sarfati was born in 1964.
-246,Which chess player was born in 1990?,"The question requests the identification of a chess player born in a specific year, and this detail is presented in the article chunk.",Ivan Šarić was born in 1990.
-247,What were the nationalities of Emmanuel Sapira?,"The question inquires about the nationalities of a chess player, details that are specified in the article chunk.",Emmanuel Sapira was from Romania and Belgium.
-248,Which chess player was from Australia?,"The question asks for the country of origin of a chess player, information that can be located in the article chunk.",Jonathan Sarfati was from Australia.
-249,In which year was Adolf Schwarz born?,"The question asks for the birth year of a chess player, the details of which are available in the article chunk.",Adolf Schwarz was born in 1836.
-250,What was the nationality of Georg Schories?,"The question seeks information about the nationality of a chess player, which can be identified in the article chunk.",Georg Schories was from Germany.
-251,Where was Gauri Shankar born?,The article states that Gauri Shankar was born in India.,Gauri Shankar was born in India.
-252,"Which chess player was born in Russia, Israel, and the US?","According to the information provided, Leonid Shamkovich was born in Russia, later moved to Israel, and finally to the US.",Leonid Shamkovich was born in Russia.
-253,What is the birth year of Alexei Shirov?,The article mentions that Alexei Shirov was born in 1972.,Alexei Shirov was born in 1972.
-254,In which country was Amon Simutowe born?,"Based on the data in the article, Amon Simutowe was born in Zambia.",Amon Simutowe was born in Zambia.
-255,Who was born in Germany and later moved to South Africa?,"From the information provided, Bruno Edgar Siegheim was born in Germany and later lived in South Africa.",Bruno Edgar Siegheim was born in Germany.
-256,What is the birth year of Marcel Sisniega Campbell?,It is stated in the article that Marcel Sisniega Campbell was born in 1959.,Marcel Sisniega Campbell was born in 1959.
-257,Where was Monika Soćko born?,"According to the details given, Monika Soćko was born in Poland.",Monika Soćko was born in Poland.
-258,When was Dragan Šolak born?,The article provides the birth year of Dragan Šolak as 1980.,Dragan Šolak was born in 1980.
-259,Where was Boris Spassky born?,"The article mentions Boris Spassky being from Russia, so it could be his birthplace.",Boris Spassky was born in Russia.
-260,Which chess player was born in 1943 and has connections to both Russia and the Netherlands?,The article mentions Genna Sosonko being born in 1943 with connections to both Russia and the Netherlands.,Genna Sosonko was born in 1943 and has connections to both Russia and the Netherlands.
-261,In which country was Wilhelm Steinitz not associated with?,"The article mentions Wilhelm Steinitz being associated with Bohemia, Austria, England, and the US, so the answer can be deduced from these countries.",Wilhelm Steinitz was not associated with Latvia.
-262,Who is the chess player from England born in 1969?,The article mentions Aaron Summerscale being from England and born in 1969.,Aaron Summerscale is the chess player from England born in 1969.
-263,Which chess player was born in 1883 and has connections to both Austria and Sweden?,The article mentions Rudolf Spielmann being born in 1883 with connections to both Austria and Sweden.,Rudolf Spielmann was born in 1883 and has connections to both Austria and Sweden.
-264,Where was Dmitry Svetushkin from?,The article states that Dmitry Svetushkin was from Moldova.,Dmitry Svetushkin was from Moldova.
-265,What is Peter Svidler's nationality?,The article mentions that Peter Svidler is from Russia.,Peter Svidler is from Russia.
-266,In which country was Rudolf Swiderski born?,Rudolf Swiderski was from Germany as mentioned in the article.,Rudolf Swiderski was born in Germany.
-267,What is the birth year of Eugenio Szabados?,The article states that Eugenio Szabados was born in 1898.,Eugenio Szabados was born in 1898.
-268,Which two countries was Eugenio Szabados associated with?,The article mentions that Eugenio Szabados was associated with Hungary and Italy.,Eugenio Szabados was associated with Hungary and Italy.
-269,Where was Gedali Szapiro born?,"As per the article, Gedali Szapiro was born in Poland.",Gedali Szapiro was born in Poland.
-270,What years did Salomon Szapiro live between?,The article states that Salomon Szapiro lived between 1882 and 1944.,Salomon Szapiro lived between 1882 and 1944.
-271,Which two countries was Rudolph Sze associated with?,The article mentions Rudolph Sze was associated with China and the US.,Rudolph Sze was associated with China and the US.
-272,What was the birth year of József Szén?,"As per the article, József Szén was born in 1805.",József Szén was born in 1805.
-273,When was József Szily born?,The article states that József Szily was born in 1913.,József Szily was born in 1913.
-274,Where was Jorge Szmetan from?,Jorge Szmetan was from Argentina as mentioned in the article.,Jorge Szmetan was from Argentina.
-275,What year was Salomon Szapiro born?,The article mentions that Salomon Szapiro was born in 1882.,Salomon Szapiro was born in 1882.
-276,Which country was Abram Szpiro associated with?,"As per the article, Abram Szpiro was associated with Germany and Poland.",Abram Szpiro was associated with Germany and Poland.
-277,When was Mark Taimanov born?,The article states that Mark Taimanov was born in 1926.,Mark Taimanov was born in 1926.
-278,Where was Sándor Takács from?,Sándor Takács was from Hungary as mentioned in the article.,Sándor Takács was from Hungary.
-279,In which country was Mikhail Tal born?,Mikhail Tal was born in Latvia according to the article.,Mikhail Tal was born in Latvia.
-280,What year was Tan Chengxuan born?,The article states that Tan Chengxuan was born in 1963.,Tan Chengxuan was born in 1963.
-281,Where was Hiong Liong Tan born?,Hiong Liong Tan was born in Indonesia as per the article.,Hiong Liong Tan was born in Indonesia.
-282,When was Lian Ann Tan born?,The article states that Lian Ann Tan was born in 1947.,Lian Ann Tan was born in 1947.
-283,Where was Tan Zhongyi born?,Tan Zhongyi was born in China according to the article.,Tan Zhongyi was born in China.
-284,Where was Alice Tonini from?,"The name 'Alice Tonini' indicates a person, and the article states she was from Italy.",Alice Tonini was from Italy.
-285,In which year was Lawrence Trent born?,The article mentions that Lawrence Trent was born in 1986.,Lawrence Trent was born in 1986.
-286,Which country is Cindy Tsai from?,The article states that Cindy Tsai is from the US.,Cindy Tsai is from the US.
-287,What is the birth year of Miyel Umansky?,The article provides that Mikhail Umansky was born in 1952.,Mikhail Umansky was born in 1952.
-288,Where was Wolfgang Unzicker from?,"By reading the article, we can see that Wolfgang Unzicker was from Germany.",Wolfgang Unzicker was from Germany.
-289,When was Arnold van den Hoek born?,The article mentions that Arnold van den Hoek was born in 1921.,Arnold van den Hoek was born in 1921.
-290,Who are some notable chess players from the Netherlands?,"The article mentions several notable chess players from the Netherlands such as Jorden van Foreest, Lucas van Foreest, Loek van Wely, and Herman Claudius van Riemsdijk.","Some notable chess players from the Netherlands include Jorden van Foreest, Lucas van Foreest, Loek van Wely, and Herman Claudius van Riemsdijk."
-291,Which chess player was born in 1914 and passed away in 1994 from the Netherlands?,The article provides information about Theo van Scheltinga who was from the Netherlands and lived between 1914 and 1994.,Theo van Scheltinga was the chess player who was born in 1914 and passed away in 1994 from the Netherlands.
-292,What are the birth years of the van Foreest brothers from the Netherlands?,"Jorden van Foreest was born in 1999, and Lucas van Foreest was born in 2001 as per the information in the article.","Jorden van Foreest was born in 1999, and Lucas van Foreest was born in 2001 from the Netherlands."
-293,Which Italian player lived between 1863 and 1927?,The article mentions Beniamino Vergani as a notable Italian chess player who lived between 1863 and 1927.,Beniamino Vergani is the Italian player who lived between 1863 and 1927.
-294,In which country was Evgeni Vasiukov born and passed away?,Evgeni Vasiukov was born in Russia and passed away in 2018 according to the article information.,Evgeni Vasiukov was born in Russia and passed away in 2018.
-295,What are the birth years of the Vukcevich chess players from Serbia?,"The article mentions two notable chess players from Serbia, Milan Vukcevich who lived between 1937 and 2003, and Milan Vukić who was born in 1942.",The birth years of the Vukcevich chess players from Serbia are Milan Vukcevich (1937) and Milan Vukić (1942).
-296,Who is the oldest chess player listed?,"Checking the birth and death dates of each player listed, we can determine the oldest player.","Xu Yuanyuan is the oldest chess player listed, born in 1981."
-297,In which country was Radosław Wojtaszek born?,,Radosław Wojtaszek was born in Poland.
-298,Who is the youngest chess player listed?,"By comparing the birth years of all the players, we can determine the youngest player.","Wei Yi is the youngest chess player listed, born in 1999."
-299,Which chess player from China is listed as being born in 1962?,,Xu Jun is listed as being born in China in 1962.
-300,Where was Henri Weenink born?,,Henri Weenink was born in the Netherlands.
-301,Who are the chess players listed from England?,,"The chess players listed from England are: Chris Ward, Cathy Warwick, Peter Wells, Elijah Williams, Simon Williams, William Winter, and Baruch Harold Wood."
-302,Which chess player has a birth year of 2000?,,Jeffery Xiong has a birth year of 2000.
-303,Was Antoni Wojciechowski born before 1930?,,"Yes, Antoni Wojciechowski was born in 1905, which is before 1930."
-304,How many chess players from Austria are listed?,,"There are four chess players listed from Austria: Wolfgang Weil, Heinrich Wolf, Siegfried Reginald Wolf, and Paula Wolf-Kalmar."
-305,Which chess player has the most nationalities listed?,,"Aleksander Wojtkiewicz has nationalities listed as Latvia, Poland, and the US, making a total of three nationalities."
-306,Where was Carissa Yip born and in which year?,The article states that Carissa Yip was born in the US in 2003.,Carissa Yip was born in the US in 2003.
-307,What is the nationality of Mikhail Yudovich?,The article mentions Mikhail Yudovich was from Russia.,Mikhail Yudovich was Russian.
-308,In which country was Alexander Zaitsev born and in which years did he live?,"According to the information given, Alexander Zaitsev was born in Russia and lived from 1935 to 1971.",Alexander Zaitsev was born in Russia and lived from 1935 to 1971.
-309,Who is known for being born in Ecuador and passing away in 2021?,"From the article, it states that Olavo Yépez was from Ecuador and passed away in 2021.",Olavo Yépez is known for being born in Ecuador and passing away in 2021.
-310,Which chess player was born in China in 1960?,Ye Jiangchuan was the chess player born in China in 1960 as per the provided information.,Ye Jiangchuan was born in China in 1960.
-311,Who was victorious in the 1997 match against Garry Kasparov?,"Deep Blue, the IBM chess playing computer, was victorious in the 1997 match against then-world champion Garry Kasparov.",Deep Blue
-312,Which chess engine has topped all chess engine rating lists and won the 2007 WCCC?,"As of December 2006, Rybka has topped all chess engine rating lists and won the 2007 WCCC.",Rybka
-313,Who is known for being the winner of the 2006 World Computer Chess Championship?,Junior is known for being the winner of the 2006 World Computer Chess Championship.,Junior
-314,Which chess engine has taken the top spot in every rating list that includes it since December 2010?,"Since the release of version 1.5 on 15 December 2010, Houdini has taken the top spot in every rating list that includes it.",Houdini
-315,What is the significance of peak FIDE rating in chess players?,"The article discusses the List of chess players by peak FIDE rating, indicating that peak FIDE rating is an important metric in evaluating chess players' performance.",Peak FIDE rating is a significant metric used to evaluate the performance of chess players.
-316,Who provides the list of chess players by peak FIDE rating?,"The article mentions the list of chess players by peak FIDE rating, which is likely provided by a reputable source within the chess community.",List of chess players by peak FIDE rating is likely provided by a reputable source within the chess community.
-317,Where was A. Polak Daniels born?,The information about his birthplace is mentioned in the first sentence of the chunk.,A. Polak Daniels was born in The Hague.
-318,What were the names of A. Polak Daniels' parents?,The chunk provides the names of A. Polak Daniels' parents.,A. Polak Daniels' parents were Meijer Polak Daniels and Alida Ezechiels.
-319,In which year did A. Polak Daniels win the Dutch Championship at The Hague?,The chunk specifically mentions the years when he won the Dutch Championship at The Hague.,A. Polak Daniels won the Dutch Championship at The Hague in 1877 and 1878.
-320,What place did A. Polak Daniels take in the tournament at Rotterdam in 1883?,The chunk provides information on A. Polak Daniels' performance in the tournament at Rotterdam in 1883.,A. Polak Daniels took 7th place in the tournament at Rotterdam in 1883.
-321,Who was A. Polak Daniels married to?,The chunk mentions the name of A. Polak Daniels' spouse.,A. Polak Daniels was married to Elise Marchand.
-322,Where was Aaron Alexandre born?,The answer can be found in the article where it mentions his birthplace.,"Aaron Alexandre was born in Hohenfeld, Franconia."
-323,What was Aaron Alexandre's primary occupation?,"According to the article, his occupation changed over time. This question focuses on his final primary occupation.",Chess became Aaron Alexandre's primary occupation.
-324,In which year did Aaron Alexandre win a match against Howard Staunton?,The article provides a specific year when Alexandre won against Staunton.,Aaron Alexandre won a match against Howard Staunton in 1838.
-325,"What symbols did Aaron Alexandre use in his book, Encyclopédie des échecs?",The article mentions specific symbols used by Alexandre in his book.,"In his book, Aaron Alexandre used the algebraic notation and the castling symbols 0–0 and 0–0–0."
-326,What nationality did Aaron Alexandre become after arriving in France?,"Based on the article, Alexandre underwent a change in nationality.",Aaron Alexandre became a French citizen after arriving in France.
-327,In which year was Aaron Pixton born?,"The article mentions that Aaron Pixton was born on January 13, 1986.",Aaron Pixton was born in 1986.
-328,Where did Aaron Pixton grow up?,"According to the article, Aaron Pixton grew up in Vestal, New York.","Aaron Pixton grew up in Vestal, New York."
-329,How many gold medals did Aaron Pixton win at the International Mathematical Olympiad?,"As per the article, Aaron Pixton won consecutive gold medals at the International Mathematical Olympiad in 2003 and 2004.",Aaron Pixton won two gold medals at the International Mathematical Olympiad.
-330,What type of chess player is Aaron Pixton?,The article mentions that Aaron Pixton is a FIDE Master in chess.,Aaron Pixton is a FIDE Master.
-331,Did Aaron Pixton win against former US Champion Joel Benjamin in chess?,It is stated in the article that Aaron Pixton had a win against the former US Champion Joel Benjamin in 2003.,"Yes, Aaron Pixton won against former US Champion Joel Benjamin in 2003."
-332,"What is the title of the article co-authored by Aaron Pixton, Rahul Pandharipande, and others, regarding Gromov-Witten theory and pairs correspondence?","The question is asking for the title of a specific article co-authored by Aaron Pixton. Checking the article references provided, we can find the answer.",The article title is 'Gromov-Witten/Pairs correspondence for the quintic 3-fold'.
-333,"In which journal was the article by Aaron Pixton and Rahul Pandharipande, concerning Gromov-Witten theory and pairs correspondence, published?","The question is about the publication venue of Aaron Pixton's article. By referencing the article details given, we can determine where it was published.",The article was published in the Journal of the American Mathematical Society.
-334,What is the title of the research work co-authored by Aaron Pixton and Georg Oberdieck focused on Igusa cusp form conjecture?,The question is inquiring about a specific research work co-authored by Aaron Pixton and Georg Oberdieck. We can find this information in the article references.,The research work title is 'Holomorphic anomaly equations and the Igusa cusp form conjecture'.
-335,Which journal features the research work by Aaron Pixton and Georg Oberdieck addressing the Igusa cusp form conjecture?,"To answer this question, we should refer to the details provided in the article section of the text.",The research work was published in Inventiones Mathematicae.
-336,In which years did Aron Schvartzman participate in numerous Argentine Chess Championships?,The article states that Aron Schvartzman participated in numerous Argentine Chess Championships between 1933 and 1949.,Aron Schvartzman participated in numerous Argentine Chess Championships between 1933 and 1949.
-337,What place did Aron Schvartzman take in the 1933 Argentine Chess Championship?,"According to the article, in 1933, Aron Schvartzman took 3rd place in the ARG-ch 12 Mayor with Luis Piazzini winning.","In the 1933 Argentine Chess Championship, Aron Schvartzman took 3rd place."
-338,Who won the Mar del Plata 1934 chess tournament?,"The article mentions that Aron Schvartzman won the Mar del Plata 1934 chess tournament, ahead of Roberto Grau.",Aron Schvartzman won the Mar del Plata 1934 chess tournament.
-339,What profession did Aron Schvartzman pursue after retiring from chess competition?,It is stated in the article that Aron Schvartzman retired from chess competition at the end of 1949 to pursue a profession as a physician.,"After retiring from chess competition, Aron Schvartzman pursued a profession as a physician."
+1,Who is the youngest chess player listed in the article?,"Tanitoluwa Adewumi was born in 2010, making him the youngest.","Tanitoluwa Adewumi, born in 2010, is the youngest chess player listed."
+2,Where was Manuel Aaron born?,Manuel Aaron was born in 1935 in India.,Manuel Aaron was born in India in 1935.
+3,Which chess player in the list was born in the year 1886?,István Abonyi was born in 1886.,"István Abonyi, who was from Hungary, was born in 1886."
+4,How many chess players in the list were born in Russia?,"There are several chess players from Russia, including Vladimir Afromeev, Vladimir Akopian, Alexander Alekhine, Alexei Alekhine, and Evgeny Alekseev.",There are five chess players in the list who were born in Russia.
+5,Who is the only chess player from Germany listed in the article?,Carl Ahues is the only chess player from Germany in the list.,Carl Ahues is the only chess player listed who is from Germany.
+6,Which chess player from Sweden was born in 1961?,"Ralf Åkesson, born in 1961, is the chess player from Sweden.","Ralf Åkesson, born in 1961, is the chess player from Sweden."
+7,In which countries were the chess players born who share the last name 'Alekhine'?,Alexander Alekhine was born in Russia while Alexei Alekhine was also born in Russia.,The chess players with the last name 'Alekhine' were born in Russia.
+8,Who is the oldest chess player listed in the article?,"Aaron Alexandre, born in 1765, is the oldest chess player listed.","Aaron Alexandre, born in 1765, is the oldest chess player listed."
+9,Which Hungarian chess player in the list was born in 1976?,"Zoltán Almási, born in 1976, is the Hungarian chess player in the list.","Zoltán Almási, born in 1976, is the Hungarian chess player listed."
+10,Where was Ketevan Arakhamia-Grant born?,,Ketevan Arakhamia-Grant was born in Georgia.
+11,When was Levon Aronian born?,,Levon Aronian was born in 1982.
+12,"Who was born first, Lev Aronin or Vladimir Antoshin?","Lev Aronin was born in 1920 while Vladimir Antoshin was born in 1929, so Lev Aronin was born first.",Lev Aronin was born before Vladimir Antoshin.
+13,In which country was Manuel Apicella born?,,Manuel Apicella was born in France.
+14,Was Vladimir Baklan born before Boris Avrukh?,"Vladimir Baklan was born in 1978 while Boris Avrukh was born in 1978, so Boris Avrukh was born first.","No, Boris Avrukh was born before Vladimir Baklan."
+15,Where was Curt von Bardeleben born?,The nationality of a person often indicates their place of birth.,Curt von Bardeleben was born in Germany.
+16,Who was the youngest chess player from the list?,"By looking at the birth years in the list, we can determine the youngest chess player.",Dávid Bérczes is the youngest chess player in the list.
+17,Who passed away in 2019 from the list?,The years of birth and death are provided in the list.,Pál Benko passed away in 2019.
+18,Which chess player was born in Netherlands?,The nationality of a person can indicate their country of birth.,Levi Benima was born in the Netherlands.
+19,Who had the longest lifespan from the list?,"By finding the chess player with the earliest birth year and latest death year, we can determine the longest lifespan.",Clarice Benini had the longest lifespan from the list.
+20,What is the birth year of Vinay Bhat?,,Vinay Bhat was born in 1984.
+21,Where was Martin Bier from?,,Martin Bier was from Germany.
+22,Who was the youngest chess player listed?,"By comparing the birth years of all players listed, the youngest player can be determined.","The youngest chess player listed is Olexandr Bortnyk, born in 1996."
+23,Did Mario Bertok live in Italy?,"Based on the information provided, we can check if Italy is listed as Mario Bertok's residence.","No, Mario Bertok was from Croatia."
+24,What was the birth year of Jonathan Penrose?,Jonathan Penrose is not listed in the chunk of information provided.,Jonathan Penrose's birth year is not included in this list.
+25,Where was Ruth Cardoso from?,,Ruth Cardoso was from Brazil.
+26,What is the birth year of Daniel Cámpora?,,Daniel Cámpora was born in 1957.
+27,Who had dual citizenship in the US and Italy?,,Fabiano Caruana had dual citizenship in the US and Italy.
+28,Who was born in Sicily in the year 1573?,,Pietro Carrera was born in Sicily in the year 1573.
+29,Where was Horatio Caro born?,,Horatio Caro was born in Germany.
+30,In which country was Alfonso Ceron born?,,Alfonso Ceron was born in Spain.
+31,When did Gerardo Budowski pass away?,,Gerardo Budowski passed away in 2014.
+32,How long did Louis-Charles Mahé de La Bourdonnais live?,,Louis-Charles Mahé de La Bourdonnais lived from 1795 to 1840.
+33,Where was Algimantas Butnorius born?,,Algimantas Butnorius was born in Lithuania.
+34,When was Walter Browne born?,,Walter Browne was born in 1949.
+35,Where was Rudolf Charousek from?,,Rudolf Charousek was from Hungary.
+36,In which year was Hermann Clemenz born?,,Hermann Clemenz was born in 1846.
+37,Who was born in Spain and the Netherlands?,,Roberto Cifuentes was born in Chile and later lived in Spain and the Netherlands.
+38,Who is the youngest chess player listed?,The youngest player listed is Anna Cramling who was born in 2002.,The youngest chess player listed is Anna Cramling.
+39,Where was Miguel Cuéllar from?,,Miguel Cuéllar was from Colombia.
+40,Where was Lenier Dominguez born?,,Lenier Dominguez was born in Cuba.
+41,"Who was born in 1957 and has the nationality of Russia, Israel, Hungary, and Greece?",,"Yelena Dembo was born in 1957 and has the nationality of Russia, Israel, Hungary, and Greece."
+42,Who was from Belgium and born in 1992?,,"Marigje Degrande, who was born in 1992, was from Belgium."
+43,What is the birth year of Boris de Greiff from Colombia?,,Boris de Greiff from Colombia was born in 1930.
+44,Which chess players have the surname 'Duda'?,,Jan-Krzysztof Duda is a chess player with the surname 'Duda'.
+45,Where was Emil Josef Diemer born?,,Emil Josef Diemer was born in Germany.
+46,Who is the youngest chess player in the list?,"By checking the birth years, we can determine that the youngest chess player in the list is Marsel Efroimski.",Marsel Efroimski is the youngest chess player in the list.
+47,Which chess player was born in Latvia?,"Looking through the list, we find that Lūcijs Endzelīns was born in Latvia.",Lūcijs Endzelīns was born in Latvia.
+48,In which country was Moissei Eljaschoff born?,,Moissei Eljaschoff was born in Lithuania.
+49,Who is the only chess player from New Zealand in the list?,"By checking the countries of origin, we find that John Angus Erskine is the only chess player from New Zealand in the list.",John Angus Erskine is the only chess player from New Zealand in the list.
+50,Which chess player was born in 1992?,"After checking the birth years, we can see that Ding Liren was born in 1992.",Ding Liren was born in 1992.
+51,How many chess players in the list were born in Russia?,"By counting the number of chess players with Russia as their country of origin, we can determine the answer.",There are five chess players in the list who were born in Russia.
+52,Where was Rodrigo Flores from?,,Rodrigo Flores was from Chile.
+53,What was the birth year of Alfred Flatow?,,Alfred Flatow was born in 1937.
+54,When was Selim Franklin born?,,Selim Franklin was born in 1814.
+55,Which chess player was born in Argentina and lived between 1923 and 2013?,,Alberto Foguelman was born in Argentina and lived between 1923 and 2013.
+56,Where was Maurice Fox born and died?,,Maurice Fox was born in Ukraine and died in Canada.
+57,Who was the chess player from Austria-Hungary who lived during the years 1853-1931?,,Bernhard Fleissig was the chess player from Austria-Hungary who lived between 1853-1931.
+58,In which two countries did the chess player Ernst Flechsig live?,,Ernst Flechsig lived in Germany and Austria during his life.
+59,When was the chess player János Flesch born and when did he die?,,János Flesch was born in 1933 and died in 1983.
+60,Where was Zenon Franco born?,,Zenon Franco was born in Paraguay.
+61,Who was the chess player born in 1981 in France?,,Laurent Fressinet was the chess player born in 1981 in France.
+62,Where was Nona Gaprindashvili born?,,Nona Gaprindashvili was born in Georgia.
+63,What is the birth year of Vugar Gashimov?,,Vugar Gashimov was born in 1986.
+64,Who was the youngest chess player listed?,"By comparing birth years, you can determine the youngest player listed.",The youngest chess player listed is Ivana Maria Furtado.
+65,Where was Andrija Fuderer from?,,"Andrija Fuderer was from Vojvodina, Belgium."
+66,What is the birth year of Ameet Ghasi?,,Ameet Ghasi was born in 1987.
+67,Where was Svetozar Gligorić from?,The question asks for the country of origin of a specific chess player.,Svetozar Gligorić was from Serbia.
+68,When was Julio Granda Zuniga born?,The question asks for the birth year of a specific chess player.,Julio Granda Zuniga was born in 1967.
+69,Who was born in 1841 and died in 1879?,"By comparing the birth and death years, we can determine which chess player matches these dates.",Carl Goering was born in 1841 and died in 1879.
+70,Which chess player was from Germany and died in 1858?,We need to find the chess player who was born in Germany and died in 1858.,Alexander Ferdinand von der Goltz was from Germany and died in 1858.
+71,Where was Gisela Kahn Gresser born?,The question asks for the birth location of a specific chess player.,Gisela Kahn Gresser was born in the United States.
+72,Where was Lev Gutman born?,,Lev Gutman was born in Latvia.
+73,Who is known for inventing the Hamppe–Muzio gambit in chess?,Carl Hamppe is known for his inventing the Hamppe–Muzio gambit which is a popular opening in chess.,Carl Hamppe is known for inventing the Hamppe–Muzio gambit in chess.
+74,When was Khosro Harandi born?,,Khosro Harandi was born in 1950.
+75,What is the nationality of Vitaly Halberstadt?,,Vitaly Halberstadt was Ukrainian and French.
+76,Who is the chess player known for being born in Austria and Russia?,This question requires identifying a chess player who has a dual nationality or has been born in both Austria and Russia.,Alexander Halprin was born in both Austria and Russia.
+77,When was Johann Hellsten born?,,Johan Hellsten was born in 1975.
+78,Where was Sigmund Herland from?,,Sigmund Herland was from Romania.
+79,Who was born in the year 1902?,,Róża Herman was born in 1902.
+80,Who was a chess player from the British Virgin Islands?,,Bill Hook was a chess player from the British Virgin Islands.
+81,What nationality is Krystyna Hołuj-Radzikowska?,,Krystyna Hołuj-Radzikowska was Polish.
+82,Was Walter von Holzhausen Austrian or German?,,Walter von Holzhausen was Austrian and German.
+83,When was Baldur Hönlinger born?,,Baldur Hönlinger was born in 1905.
+84,Where was Vlastimil Hort born?,,Vlastimil Hort was born in Czechoslovakia.
+85,What is the birth year of Hou Yifan?,,Hou Yifan was born in 1994.
+86,Who was from Bangladesh?,,Enamul Hossain was from Bangladesh.
+87,Where was Koneru Humpy born?,The question asks for a birthplace that can be found in the given information.,Koneru Humpy was born in India.
+88,What is the birth year of Alexander Ivanov?,The question asks for a specific birth year that can be found in the given information.,Alexander Ivanov was born in 1956.
+89,Who was born in 1967 and is a chess player from Russia and the US?,The question describes specific attributes which can be matched with a player from the chunk.,Ildar Ibragimov was born in 1967 and is a chess player from Russia and the US.
+90,When did Leif Erlend Johannessen pass away?,The question asks about the year of death of a person mentioned in the given information.,Leif Erlend Johannessen passed away in 2007.
+91,Which chess player was born in 1933 in Serbia?,The question describes specific attributes which can be matched with a player from the chunk.,"Borislav Ivkov, born in 1933, is a chess player from Serbia."
+92,When was Sergey Karjakin born?,,Sergey Karjakin was born in 1990.
+93,Where was Garry Kasparov born?,,Garry Kasparov was born in Azerbaijan.
+94,Who was known as the 'Beast from Baku'?,"Garry Kasparov was born in Baku, Azerbaijan and was known for his aggressive playing style, earning him the nickname 'Beast from Baku'.",Garry Kasparov was known as the 'Beast from Baku'.
+95,In which country was Lubomir Kavalek born?,,Lubomir Kavalek was born in Czechoslovakia.
+96,When did Emil Kemény pass away?,,Emil Kemény passed away in 1925.
+97,Who was born in Russia and became a world chess champion?,"Anatoly Karpov was born in Russia, and he became a world chess champion.",Anatoly Karpov was born in Russia and became a world chess champion.
+98,Which chess player was born in Ukraine and later represented Germany?,Igor Khenkin was born in Ukraine and later represented Germany in chess competitions.,Igor Khenkin was born in Ukraine and later represented Germany in chess competitions.
+99,Who is the youngest chess player listed in the Wikipedia chunk?,"Judging by the birth years mentioned, Ju Wenjun born in 1991 is the youngest chess player listed in the Wikipedia chunk.",Ju Wenjun is the youngest chess player listed in the Wikipedia chunk.
+100,Where was Alexander Koblencs born?,,Alexander Koblencs was born in Latvia.
+101,Who was born in 1975 and represented both Russia and Canada?,The person in question is Natalia Khoudgarian.,Natalia Khoudgarian was born in 1975 and represented both Russia and Canada.
+102,"Which chess player was born in 1910 and passed away in 1990, representing Austria and England?",,"Ernst Klein was born in 1910, passed away in 1990, and represented Austria and England."
+103,Who had the longest life span among chess players representing Estonia?,The only chess player representing Estonia with the longest life span mentioned in the article is Feliks Kibbermann.,"Feliks Kibbermann had the longest life span among chess players representing Estonia, living from 1902 to 1993."
+104,"Which chess player represented Germany and Ecuador, born in 1915 and passed away in 1992?",,"Paul Klein represented Germany and Ecuador, was born in 1915, and passed away in 1992."
+105,Who was a Hungarian chess player born in 1914 and died in 1994?,,Gyula Kluger was a Hungarian chess player born in 1914 and passed away in 1994.
+106,In which year was Rainer Knaak born?,,Rainer Knaak was born in 1953.
+107,When was Stanisław Kohn born?,,Stanisław Kohn was born in 1895.
+108,Where was Jan Kotrč from?,,Jan Kotrč was from Czechoslovakia.
+109,When was Adolf Kraemer born?,,Adolf Kraemer was born in 1871.
+110,Who was born in Syria and later moved to France?,,Bachar Kouatly was born in Syria and later moved to France.
+111,In which country was Orla Hermann Krause born?,,Orla Hermann Krause was born in Denmark.
+112,When did Konstantin Landa pass away?,,Konstantin Landa passed away in 2022.
+113,Where was Salomon Langlebe from?,,Salomon Langlebe's origin is not specified in the given information.
+114,Where was Bent Larsen born?,,Bent Larsen was born in Denmark.
+115,When was Irina Levitina born?,,Irina Levitina was born in 1954.
+116,Which chess player was born in France in the 18th century?,,"Legall de Kermeur was born in France in the 18th century, from 1702 to 1792."
+117,In which country was Jesica Lauser born?,,Jessica Lauser was born in America.
+118,Who was the chess player born in Norway in 1980?,,Kjetil Aleksander Lie was born in Norway in 1980.
+119,Where was Georgy Lisitsin born?,,Georgy Lisitsin was born in Russia.
+120,When was Marta Litinskaya-Shul born?,,Marta Litinskaya-Shul was born in 1949.
+121,Who was known as the 'Hero of a hundred draws'?,Samuel Lipschütz was a Hungarian and US chess player known as the 'Hero of a hundred draws'.,Samuel Lipschütz was known as the 'Hero of a hundred draws'.
+122,From which country did Eric Lobron originate?,,Eric Lobron originates from the United States and Germany.
+123,What is the nationality of Smbat Lputian?,,Smbat Lputian's nationality is Armenian.
+124,What nationality was Nicholas MacLeod?,,Nicholas MacLeod was of Canadian nationality.
+125,When was Constantin Lupulescu born?,,Constantin Lupulescu was born in 1984.
+126,Who was born in Lithuania and later moved to Israel?,,Aleksandras Machtas was born in Lithuania and later moved to Israel.
+127,What was Nidjat Mamedov's nationality?,,Nidjat Mamedov was of Azerbaijani nationality.
+128,Where was Napoleon Marache born?,Marache was from France and also lived in the US.,Napoleon Marache was born in France.
+129,Who is the youngest chess player from the list?,"The youngest player listed is Shakhriyar Mamedyarov who was born in 1985, making him the youngest.",Shakhriyar Mamedyarov is the youngest chess player on the list.
+130,Which player was born in the 19th century?,"Dion Martinez lived from 1837 to 1928, so he was born in the 19th century.",Dion Martinez was born in the 19th century.
+131,Who was from Chile?,Beatriz Marinello was born in Chile.,Beatriz Marinello was from Chile.
+132,Which player was born in the same year as Maria Manakova?,"Maria Manakova was born in 1974, so Alisa Marić who was also born in 1970 was born in the same year.",Alisa Marić was born in the same year as Maria Manakova in 1974.
+133,Where was Lilit Mkrtchian born?,"The birth place is mentioned for each player, so we can directly refer to the list.",Lilit Mkrtchian was born in Armenia.
+134,When was Alexander Moiseenko born?,"The birth year is provided for each player, so we can directly refer to the list.",Alexander Moiseenko was born in 1980.
+135,Who is the chess player born in 2006?,We can look at the birth years to find the player born in 2006.,Jack Mizzi is the chess player born in 2006.
+136,What is the birth year of Abhimanyu Mishra?,"The birth year is mentioned for each player, so we can directly refer to the list.",Abhimanyu Mishra was born in 2009.
+137,In which country was Piotr Murdzia born?,"The birth country is listed for each player, so we can directly refer to the list for the answer.",Piotr Murdzia was born in Poland.
+138,Where was Predrag Nikolić born?,,Predrag Nikolić was born in Bosnia and Herzegovina.
+139,Who was born in 1940?,,Renato Naranja was born in 1940.
+140,Which chess player was born in 1976?,,Liviu-Dieter Nisipeanu was born in 1976.
+141,When was Hans Niemann born?,,Hans Niemann was born in 2003.
+142,Where was Aron Nimzowitsch from?,,Aron Nimzowitsch was from Latvia and Denmark.
+143,Who was the youngest chess player listed?,"The youngest chess player can be identified by looking at the birth years, so the player with the earliest birth year in the list should be the youngest.","Illia Nyzhnyk is the youngest chess player listed, born in 1996."
+144,In what year was John Nunn born?,"To find out the birth year of John Nunn, we need to look for his entry and read the information provided.",John Nunn was born in 1955.
+145,Which chess player has the earliest known birth year?,"By examining the birth years in the list, we can determine the player with the earliest known birth year.","Louis Paulsen has the earliest known birth year in the list, being born in 1833."
+146,Where was Elisabeth Pähtz born?,"The birthplaces of the players are mentioned with each entry, so we can locate Elisabeth Pähtz's birthplace by referring to her entry in the list.",Elisabeth Pähtz was born in Germany.
+147,Who is the chess player born in 1941 from Germany?,The player born in 1941 from Germany can be identified by looking at the birth year and nationality in the list.,Rudolf Palme is the chess player born in 1941 from Germany.
+148,Where was Judit Polgár born?,"The question asks for a birthplace, which can be directly answered from the chunk.",Judit Polgár was born in Hungary.
+149,What is the birth year of William Pollock?,The birth year of William Pollock is explicitly mentioned in the chunk.,William Pollock was born in 1859.
+150,Was Zsuzsa Polgar born in Hungary?,"Zsuzsa Polgar's birthplace is Hungary and is explicitly stated in the chunk, so the question has a clear answer.","Yes, Zsuzsa Polgar was born in Hungary."
+151,Are Zsofia Polgar and Elisabeta Polihroniade from the same country?,"From the information provided in the chunk, we can determine the countries of origin of Zsofia Polgar and Elisabeta Polihroniade.","Zsofia Polgar is from Hungary while Elisabeta Polihroniade is from Romania, so they are not from the same country."
+152,Which chess player passed away in 1939?,"Karol Piltz's death year is 1939, as mentioned in the chunk.",Karol Piltz passed away in 1939.
+153,Where was Lev Polugaevsky born?,"The question asks for the birthplace of a specific chess player, which is Lev Polugaevsky.","Lev Polugaevsky was born in Belarus, Russia."
+154,In which year was Ruslan Ponomariov born?,"The question asks for the birth year of a specific chess player, which is Ruslan Ponomariov.",Ruslan Ponomariov was born in 1983.
+155,What is the nationality of Svetlana Prudnikova?,"The question asks for the nationality of a specific chess player, which is Svetlana Prudnikova.",Svetlana Prudnikova is Russian.
+156,When was Cecil Purdy born?,"The question asks for the birth year of a specific chess player, which is Cecil Purdy.",Cecil Purdy was born in 1906.
+157,Where was Miguel Quinteros born?,"The question asks for the birthplace of a specific chess player, which is Miguel Quinteros.",Miguel Quinteros was born in Argentina.
+158,Where was Salome Reischer born?,,Salome Reischer was born in Austria.
+159,Who was the oldest chess player from Argentina?,,Arturo Reggio was the oldest chess player from Argentina.
+160,In which two countries was Antonio Rico active as a chess player?,,Antonio Rico was active as a chess player in Spain and in the US.
+161,Which chess player from Russia was born in 1908?,,"Nikolai Riumin, a chess player from Russia, was born in 1908."
+162,Who was born in 1962 and is a chess player from Argentina?,,"Pablo Ricardi, born in 1962, is a chess player from Argentina."
+163,Where was Laura Ross born?,The article states her country as 'US'.,Laura Ross was born in the US.
+164,When was Mary Rudge born?,The article provides her birth and death years.,Mary Rudge was born in 1842.
+165,Who was the chess player born in 1945?,The article mentions the birth year of 'Jorge Rubinetti'.,Jorge Rubinetti was born in 1945.
+166,In which country was Matthew Sadler born?,The article mentions his country of origin as 'England'.,Matthew Sadler was born in England.
+167,When did Yousof Safvat pass away?,The article provides his birth and death years.,Yousof Safvat passed away in 2003.
+168,Where was Jonathan Sarfati born?,,Jonathan Sarfati was born in Australia.
+169,When was Gabriel Sargissian born?,,Gabriel Sargissian was born in 1983.
+170,Who was the chess player from India born in 2004?,,Nihal Sarin is the chess player from India who was born in 2004.
+171,What is the nationality of Gyula Sax?,,Gyula Sax's nationality is Hungarian.
+172,Which chess player was born in 1872 and died in 1952?,,Philip Walsingham Sergeant was born in 1872 and died in 1952.
+173,What was the birthplace of Sam Schweber?,,Samuel Schweber was born in Argentina.
+174,In which countries did Paulette Schwartzmann play chess?,,"Paulette Schwartzmann played chess in Latvia, France, and Argentina."
+175,Who is the chess player born in 1960 in Syria?,,Yasser Seirawan is the chess player born in Syria in 1960.
+176,What is Lidia Semenova's year of birth?,,Lidia Semenova was born in 1951.
+177,What was Ortvin Sarapu's nationality?,,Ortvin Sarapu's nationality was Estonian.
+178,Where was Wesley So born?,,Wesley So was born in the Philippines.
+179,Who is known for their famous games as the 'Immortal Game' and 'Evergreen Game'?,These famous games are known to have been played by Adolf Anderssen.,Adolf Anderssen is known for his famous games such as the 'Immortal Game' and the 'Evergreen Game'.
+180,In which year did Marcel Sisniega Campbell pass away?,,Marcel Sisniega Campbell passed away in 2013.
+181,Which player was born in 1947 and is from Iceland?,,"Guðmundur Sigurjónsson, who is from Iceland, was born in 1947."
+182,Where was Sanan Sjugirov born?,,Sanan Sjugirov was born in Russia.
+183,Where was Anatoly Karpov born?,,"Anatoly Karpov was born in Zlatoust, Soviet Union."
+184,Who was born in Sweden and passed away in 1967?,,Gideon Ståhlberg was born in Sweden and passed away in 1967.
+185,In which country was Aaron Summerscale born?,,Aaron Summerscale was born in England.
+186,Which chess player was born in Germany in 1874 and died in 1916?,,Hugo Süchting was born in Germany in 1874 and died in 1916.
+187,Where was Sándor Takács from?,,Sándor Takács was from Hungary.
+188,Who was born in Latvia in 1936 and passed away in 1992?,"The article mentions a player born in Latvia in 1936 and who passed away in 1992, matching the information about Mikhail Tal.",Mikhail Tal was born in Latvia in 1936 and passed away in 1992.
+189,When was Hans Tikkanen born?,"The article states that Hans Tikkanen was born in 1985, so that is the asnwer.",Hans Tikkanen was born in 1985.
+190,Which chess player was from France and passed away around 1940?,"By reviewing the article, it can be found that Theophilus Thompson is the player who was from the US and passed away after 1940.",Theophilus Thompson was from the US and he passed away after 1940.
+191,In which countries did James Thompson play chess?,"The article mentions that James Thompson was from England and the US, hence he played chess in these two countries.",James Thompson played chess in England and the US.
+192,Who is originally from Ukraine and passed away in 2016?,"From the given list, it can be inferred that Mark Taimanov was originally from Ukraine and passed away in 2016.","Mark Taimanov, who was originally from Ukraine, passed away in 2016."
+193,Who was born in 1985 and is a chess player?,"The question specifies the birth year and chess player, so the answer can be found directly in the chunk.",Anna Ushenina was born in 1985 and is a chess player.
+194,Which chess player from Bulgaria was born in 1975?,The question directly asks for a player from Bulgaria born in 1975.,"Veselin Topalov, a chess player from Bulgaria, was born in 1975."
+195,Can you name a chess player from the US who was born in 1942?,The question asks for a chess player from the US born in 1942.,"Michael Valvo, a chess player from the US, was born in 1942."
+196,Was Wolfgang Uhlmann born in Germany?,"The chunk mentions Wolfgang Uhlmann as a chess player and states his birth year along with the year of death, so we can infer his birthplace.","Yes, Wolfgang Uhlmann, a chess player, was born in Germany."
+197,When was Johan van den Bosch born?,"The chunk specifies the birth and death year of Johannes van den Bosch, so we can state his birth year directly from the information provided.",Johannes van den Bosch was born in 1906.
+198,What is the birth year of the chess player Rafael Vaganian?,The chunk provides the birth year and nationality of Rafael Vaganian along with the years of the other players in the list.,"Rafael Vaganian, a chess player from Armenia, was born in 1951."
+199,Who is the youngest Dutch chess player listed?,"By comparing the birth years provided, the youngest Dutch player listed is Lucas van Foreest born in 2001.",Lucas van Foreest is the youngest Dutch chess player listed.
+200,Which Russian chess player listed passed away in 2018?,"By examining the provided data, Evgeni Vasiukov was born in 1933 and passed away in 2018.","Evgeni Vasiukov, the Russian chess player, passed away in 2018."
+201,Who is the Serbian chess player listed with the shortest lifespan?,"Comparing the birth and death years given, Dragoljub Velimirović born in 1942 and died in 2014 had the shortest lifespan.",Dragoljub Velimirović is the Serbian chess player listed with the shortest lifespan.
+202,In which year was Subbaraman Vijayalakshmi born?,"Based on the data provided, Subbaraman Vijayalakshmi is listed as born in 1979.",Subbaraman Vijayalakshmi was born in 1979.
+203,Which Ukrainian chess player listed was born in 1986?,"With the information given, Andrei Volokitin is listed as born in 1986.",Andrei Volokitin is the Ukrainian chess player listed who was born in 1986.
+204,Where was Chris Ward born?,,Chris Ward was born in England.
+205,Who was born in 1814 and died in 1896?,,Marmaduke Wyvill was born in 1814 and died in 1896.
+206,What is the birth year of Antoni Wojciechowski?,,Antoni Wojciechowski was born in the year 1905.
+207,Who was born in 1857 and died in 1927?,,Max Weiss was born in 1857 and died in 1927.
+208,When was Arthur Wijnans born?,,Arthur Wijnans was born in the year 1920.
+209,Which chess player was born in Slovakia?,,Karl Gottlieb von Windisch was born in Slovakia.
+210,Where was Carissa Yip born?,,Carissa Yip was born in the United States in the year 2003.
+211,Who is the oldest chess player mentioned in the list?,"By comparing the birth years of all players, we can determine that Olavo Yépez is the oldest, as he was born in 1937.",Olavo Yépez is the oldest chess player mentioned in the list.
+212,Who is the youngest chess player mentioned in the list?,"By comparing the birth years of all players, we can determine that Carissa Yip is the youngest, as she was born in 2003.",Carissa Yip is the youngest chess player mentioned in the list.
+213,What is the birth country of Ye Rongguang?,,Ye Rongguang was born in China in the year 1963.
+214,In which year was Elmārs Zemgalis born?,,Elmārs Zemgalis was born in 1923 and passed away in 2014.
+215,Where was Pablo Zarnicki born?,,Pablo Zarnicki was born in Argentina in the year 1972.
+216,To which countries does Artur Yusupov belong?,,Artur Yusupov belongs to Russia and Germany.
+217,Who is the chess player from Australia in the list?,"By carefully checking the birth countries, we can identify Zhao Zong-Yuan as the chess player from Australia.",Zhao Zong-Yuan is the chess player from Australia in the list.
+218,Where was Kira Zvorykina born?,,Kira Zvorykina was born in Ukraine.
+219,Who is the winner of the 2006 World Computer Chess Championship?,,Junior is the winner of the 2006 World Computer Chess Championship.
+220,Which chess-playing computer defeated the world champion Vladimir Kramnik in 2006?,,The version Deep Fritz 10 defeated the world champion Vladimir Kramnik in 2006.
+221,Who won the 2007 World Computer Chess Championship?,,Rybka won the 2007 World Computer Chess Championship.
+222,In what year was Houdini (chess) first released?,"Since version 1.5 was released on 15 December 2010 and it has topped every rating list that includes it, it must be the first release year.",Houdini (chess) was first released in 2010.
+223,Is there a list of chess players by peak FIDE rating?,The article mentions a list of chess players by peak FIDE rating.,"Yes, there is a list of chess players by peak FIDE rating."
+224,Are there any references provided for further information on chess?,The article mentions references under the 'References' section.,"Yes, there are references provided for further information on chess."
+225,Is there a link to the World Chess Federation website in the article?,The article mentions a link to the World Chess Federation website.,"Yes, there is a link to the World Chess Federation website in the article."
+226,Can you find a link to the US Chess website?,The article mentions a link to the US Chess website.,"Yes, there is a link to the US Chess website in the article."
+227,Is there any information about amateur chess players in the article?,The article mentions a list of amateur chess players.,"Yes, there is information about amateur chess players in the article."
+228,Where was Ansel Polak Daniels born?,The birthplace of Ansel Polak Daniels is mentioned in the chunk.,Ansel Polak Daniels was born in The Hague.
+229,In which year did Ansel Polak Daniels win the Dutch Championship for the first time?,The chunk mentions that Ansel Polak Daniels won the Dutch Championship in 1877.,Ansel Polak Daniels won the Dutch Championship for the first time in 1877.
+230,Who were the parents of Ansel Polak Daniels?,The chunk provides information about the parents of Ansel Polak Daniels.,The parents of Ansel Polak Daniels were Meijer Polak Daniels and Alida Ezechiels.
+231,When did Ansel Polak Daniels pass away?,The chunk states the date of death of Ansel Polak Daniels.,Ansel Polak Daniels passed away on 1st April 1891.
+232,How many times did Ansel Polak Daniels win the Dutch Championship in total?,"From the chunk, we can deduce the total number of times Ansel Polak Daniels won the Dutch Championship.",Ansel Polak Daniels won the Dutch Championship two times in total.
+233,Where was Aaron Alexandre born?,"The article mentions that he was born in Hohenfeld, Franconia.","Aaron Alexandre was born in Hohenfeld, Franconia."
+234,What was Aaron Alexandre's primary occupation?,"According to the text, chess eventually became his primary occupation.",Aaron Alexandre's primary occupation was playing chess.
+235,What did Aaron Alexandre publish in 1837?,The article states that he published his findings as the Encyclopédie des échecs (Encyclopedia of Chess) in 1837.,Aaron Alexandre published the Encyclopédie des échecs (Encyclopedia of Chess) in 1837.
+236,Who did Aaron Alexandre defeat in a match in 1838?,"It is mentioned that in 1838, he won a match against Howard Staunton in London.",Aaron Alexandre defeated Howard Staunton in a match in 1838.
+237,What symbols did Aaron Alexandre use in his book?,The text states that he used the algebraic notation and the castling symbols 0–0 and 0–0–0.,Aaron Alexandre used the algebraic notation and the castling symbols 0–0 and 0–0–0 in his book.
+238,What is Aaron Pixton known for in addition to his work in enumerative geometry?,"The article states that Pixton is also known for his chess playing, where he is a FIDE Master.",Aaron Pixton is known for his chess playing in addition to his work in enumerative geometry.
+239,Where was Aaron Pixton born?,"The article specifies that Pixton was born in Binghamton, New York.","Aaron Pixton was born in Binghamton, New York."
+240,How many times did Aaron Pixton score a perfect score on the American Mathematics Competition while a student at Vestal Senior High School?,It is mentioned that Pixton scored a perfect score three times from 2002 to 2004.,Aaron Pixton scored a perfect score on the American Mathematics Competition three times while a student at Vestal Senior High School.
+241,In what years did Aaron Pixton win consecutive gold medals at the International Mathematical Olympiad?,The article states that Pixton won consecutive gold medals at the International Mathematical Olympiad in 2003 and 2004.,Aaron Pixton won consecutive gold medals at the International Mathematical Olympiad in 2003 and 2004.
+242,Where did Aaron Pixton receive his Bachelor of Arts degree?,It is mentioned in the article that Pixton received his Bachelor of Arts degree in 2008 from Princeton University.,Aaron Pixton received his Bachelor of Arts degree from Princeton University.
+243,What scholarship did Aaron Pixton receive in 2008 to the University of Cambridge?,The article states that Pixton received a Churchill Scholarship to the University of Cambridge in 2008.,Aaron Pixton received a Churchill Scholarship to the University of Cambridge in 2008.
+244,What is the title of the article co-authored by Aaron Pixton in 2017?,"The question asks for a specific publication, which can be directly deduced from the information provided.",The title of the article co-authored by Aaron Pixton in 2017 is 'Double ramification cycles on the moduli spaces of curves'.
+245,"Which journal published the article co-authored by Felix Janda, Rahul Pandharipande, Aaron Pixton and Dimitri Zvonkine?",The information regarding the publication of the article is stated in the chunk.,"The article co-authored by Felix Janda, Rahul Pandharipande, Aaron Pixton, and Dimitri Zvonkine was published in the 'Publications Mathématiques de l'IHÉS' journal."
+246,What is the subject of the article co-authored by Rahul Pandharipande and Aaron Pixton in 2017?,The subject of the article can be deduced from the information provided.,The subject of the article co-authored by Rahul Pandharipande and Aaron Pixton in 2017 is the 'Gromov–Witten/Pairs correspondence for the quintic 3-fold'.
+247,In which journal did Georg Oberdieck and Aaron Pixton publish their article in 2018?,"The question is asking for a specific journal, the answer can be found directly in the provided information.",Georg Oberdieck and Aaron Pixton published their article in the 'Inventiones Mathematicae' journal in 2018.
+248,When did Aron Schvartzman retire from chess competition?,,Aron Schvartzman retired from chess competition at the end of 1949.
+249,Who won the Mar del Plata 1934 tournament?,,Aron Schvartzman won the Mar del Plata 1934 tournament.
+250,What profession did Aron Schvartzman pursue after retiring from chess?,,Aron Schvartzman pursued a profession as a physician after retiring from chess.
+251,How many times was Aron Schvartzman a champion of Club Argentino de Ajedrez in Buenos Aires?,,Aron Schvartzman was a champion of Club Argentino de Ajedrez in Buenos Aires in the period from 1931 to 1948.
+252,When was Aaron Summerscale born?,,Aaron Summerscale was born on 26 August 1969.
+253,What title does Aaron Summerscale hold in chess?,,Aaron Summerscale holds the title of Grandmaster in chess.
+254,In which year was Aaron Summerscale joint British Rapidplay Chess Champion?,,Aaron Summerscale was joint British Rapidplay Chess Champion in 2000.
+255,Who co-authored the book 'Interview With a Grandmaster' with Aaron Summerscale?,,Claire Summerscale co-authored the book 'Interview With a Grandmaster' with Aaron Summerscale.
+256,What is the ISBN of the book 'A Killer Chess Opening Repertoire' by Aaron Summerscale?,,The ISBN of the book 'A Killer Chess Opening Repertoire' by Aaron Summerscale is 978-1-85744-519-0.
+257,Where was Abe Turner born?,The article directly states that Turner was born in New York City.,Abe Turner was born in New York City.
+258,What is Abraham Turner best known for in the world of chess?,"According to the article, Turner was best known as a blitz chess hustler who had a winning record against Bobby Fischer.",Abraham Turner was best known as a blitz chess hustler who had a winning record against Bobby Fischer.
+259,When did Abe Turner learn to play chess?,The article mentions that Turner learned how to play chess in 1943 at a naval hospital while recovering from shrapnel wounds inflicted during World War II.,Abe Turner learned how to play chess in 1943 while recovering from shrapnel wounds inflicted during World War II.
+260,Where did Abe Turner frequently play chess for ten cents an hour?,"From the article, we can deduce that Turner frequented the Chess and Checkers Club of New York in Times Square, also known as the 'flea house,' where anyone could play chess for ten cents an hour.","Abe Turner frequently played chess at the Chess and Checkers Club of New York in Times Square, also known as the 'flea house,' for ten cents an hour."
+261,What tragic event led to Abe Turner's introduction to chess?,The article states that Turner learned how to play chess in 1943 at a naval hospital while recovering from shrapnel wounds inflicted during World War II.,Abe Turner's introduction to chess was due to recovering from shrapnel wounds inflicted during World War II at a naval hospital.
+262,How did Abe Turner describe his best performance in chess?,"According to the text, Turner considered his best performance to be fourth place at the U.S. Open at Long Beach, California in 1955, but tied for first shortly after at San Diego with William Lombardy and James Sherwin.","Abe Turner described his best performance in chess as fourth place at the U.S. Open at Long Beach, California in 1955, where he tied for first shortly after at San Diego with William Lombardy and James Sherwin."
+263,Who found Abe Turner's body after he was tragically killed?,"From the given information, it was stated that the superintendent of the building found Turner's body in the basement where he had been working as a clerk for Al Horowitz for the magazine Chess Review.",The superintendent of the building found Abe Turner's body in the basement after he was tragically killed.
+264,How many times has Abhijeet Gupta won the Commonwealth Chess Championship?,Abhijeet Gupta is the first player to win the championship five times.,Abhijeet Gupta has won the Commonwealth Chess Championship five times.
+265,Who won the World Junior Chess Championship in 2008?,"Abhijeet Gupta won the championship ahead of players like Maxim Rodshtein, David Howell, and Hou Yifan.",Abhijeet Gupta won the World Junior Chess Championship in 2008.
+266,Which championship did Abhijeet Gupta win in 2011 and also in the same year?,"In 2011, Abhijeet Gupta won both the 13th Dubai Open Chess Championship and the Indian National Premier Chess Championship.","In 2011, Abhijeet Gupta won the 13th Dubai Open Chess Championship and the Indian National Premier Chess Championship."
+267,For what achievement did Abhijeet Gupta receive the Arjuna award in 2013?,"Gupta received the Arjuna award in the same year he won the Commonwealth Chess Championship and the Al Ain Chess Classic tournament, which was 2013.",Abhijeet Gupta received the Arjuna award in 2013 for his achievements.
+268,Where did Abhijeet Gupta win his third Commonwealth championship title in 2016?,"In 2016, Gupta won his third Commonwealth championship title in Kalutara, Sri Lanka.","Abhijeet Gupta won his third Commonwealth championship title in Kalutara, Sri Lanka in 2016."
+269,When was Abhijit Kunte born?,,Abhijit Kunte was born on 3 March 1977.
+270,How many gold medals has Abhijit Kunte won in the Indian Chess Championship?,Abhijit Kunte won two gold medals in the Indian Chess Championship in 1997 and 2000.,Abhijit Kunte has won two gold medals in the Indian Chess Championship.
+271,In which year did Abhijit Kunte win the British Chess Championship?,,Abhijit Kunte won the British Chess Championship in 2003 at Edinburgh.
+272,How many times has Abhijit Kunte represented India at the Chess Olympiads?,Abhijit Kunte represented India four times at the Chess Olympiads from 1998 to 2004.,Abhijit Kunte has represented India four times at the Chess Olympiads.
+273,When was Abhijit Kunte awarded the Grandmaster title?,,Abhijit Kunte was awarded the Grandmaster title in the year 2000.
+274,When did Abhimanyu Mishra become the youngest player ever to qualify for the grandmaster title?,"Abhimanyu Mishra became the youngest player ever to qualify for the grandmaster title on June 30, 2021, which is mentioned in the article chunk.","Abhimanyu Mishra became the youngest player ever to qualify for the grandmaster title on June 30, 2021."
+275,Whose record did Abhimanyu Mishra beat to become the youngest player ever to qualify for the grandmaster title?,Abhimanyu Mishra beat Sergey Karjakin's record to become the youngest player ever to qualify for the grandmaster title.,Abhimanyu Mishra beat Sergey Karjakin's record to become the youngest player ever to qualify for the grandmaster title.
+276,At what age did Abhimanyu Mishra break the United States Chess Federation record for youngest Expert?,"Abhimanyu Mishra broke the USCF record for youngest Expert at the age of 7 years, 6 months, and 22 days.","Abhimanyu Mishra broke the USCF record for youngest Expert at the age of 7 years, 6 months, and 22 days."
+277,Who previously held the record which Abhimanyu Mishra broke for the youngest National Master in US Chess?,Abhimanyu Mishra broke the record of Liran Zhou for the youngest National Master in US Chess.,Abhimanyu Mishra broke the record of Liran Zhou for the youngest National Master in US Chess.
+278,When did Abhimanyu Mishra earn the title of International Master?,"Abhimanyu Mishra earned the title of International Master in November 2019 at the age of 10 years, 9 months, and 20 days.",Abhimanyu Mishra earned the title of International Master in November 2019.
+279,How many GM norms does a player need to become a grandmaster?,"To become a grandmaster, a player must score three GM norms.",A player needs to score three GM norms to become a grandmaster.
+280,What performance rating is required to achieve a GM norm in a tournament?,A GM norm is achieved by achieving a performance rating of over 2600 in a tournament.,A performance rating of over 2600 is required to achieve a GM norm in a tournament.
+281,Who congratulated Abhimanyu Mishra on becoming the youngest Grandmaster in chess history?,Abhimanyu Mishra received congratulations from former record holder Karjakin and then-World Champion Magnus Carlsen.,Abhimanyu Mishra received congratulations from former record holder Karjakin and then-World Champion Magnus Carlsen.
+282,What concerns were raised by Nigel Short and Bruce Pandolfini regarding Abhimanyu Mishra's achievement?,"Short and Pandolfini alleged that the GM qualification structure encourages 'norm' tournaments that narrowly qualify as prestigious enough to count as a GM norm, but no tougher. They also noted differences in the average rating of Mishra's opponents in Hungary compared to Charlotte, North Carolina.","Nigel Short and Bruce Pandolfini raised concerns about the GM qualification structure, alleging that it encourages 'norm' tournaments that narrowly qualify as prestigious and pointing out differences in opponent ratings."
+283,Who suggested that changes could be made to the GM qualification process after Abhimanyu Mishra's achievement?,World Championship challenger Ian Nepomniachtchi suggested that changes could be made to the qualification process.,World Championship challenger Ian Nepomniachtchi suggested that changes could be made to the GM qualification process.
+284,In what year did FIDE update the rules regarding titled norms?,The update to the rules regarding titled norms was made in 2022 by FIDE.,FIDE updated the rules regarding titled norms in 2022.
+285,"Who was awarded the GM title in 2023, causing Abhimanyu Mishra to lose his record as the youngest Grandmaster in the world?","Ihor Samunenkov was awarded the GM title in 2023, causing Abhimanyu Mishra to lose his record as the youngest Grandmaster in the world.","Ihor Samunenkov was awarded the GM title in 2023, causing Abhimanyu Mishra to lose his record as the youngest Grandmaster."
+286,Where was Abraham Baratz born?,The birthplace of Abraham Baratz is mentioned in the article.,Abraham Baratz was born in Bessarabia.
+287,In which city did Abraham Baratz take 2nd place in 1924 behind Eugene Znosko-Borovsky?,The article specifies this information about one of the chess events in which Abraham Baratz participated.,Abraham Baratz took 2nd place in Paris in 1924 behind Eugene Znosko-Borovsky.
+288,Which player did Abraham Baratz win ahead of in Hyères in January 1926?,It is mentioned in the article that Abraham Baratz won ahead of another player in Hyères in January 1926.,Abraham Baratz won ahead of Dawid Janowski in Hyères in January 1926.
+289,At which event did Abraham Baratz take 3rd place in Paris in 1925?,The article provides this specific placement of Abraham Baratz in a chess event.,Abraham Baratz took 3rd place in Paris in 1925.
+290,Which player did Abraham Baratz tie for 1st place with in the 1st Paris City Chess Championship in 1925?,The article mentions that Abraham Baratz tied for 1st place with another player in the 1st Paris City Chess Championship in 1925.,Abraham Baratz tied for 1st place with Vitaly Halberstadt in the 1st Paris City Chess Championship in 1925.
+291,When was Abraham Kupchik born?,,Abraham Kupchik was born on 25 March 1892.
+292,In which country was Abraham Kupchik born?,"Abraham Kupchik was born in Brest, which was then part of the Russian Empire, now Belarus.","Abraham Kupchik was born in Brest, which was then part of the Russian Empire, now Belarus."
+293,What was Abraham Kupchik's profession?,The article mentions that Abraham Kupchik was an accountant by profession.,Abraham Kupchik's profession was an accountant.
+294,How many times did Abraham Kupchik win the Manhattan Chess Club Championship outright?,"According to the information provided, Kupchik won the Manhattan Chess Club Championship ten times outright.",Abraham Kupchik won the Manhattan Chess Club Championship ten times outright.
+295,In which year did Abraham Kupchik tie for third/fourth place in New York?,"From the article, we know that in 1915, Abraham Kupchik tied for third/fourth place in New York with Oscar Chajes, behind José Raúl Capablanca and Frank James Marshall.","In 1915, Abraham Kupchik tied for third/fourth place in New York."
+296,Where was Abraham Speijer born?,,Abraham Speijer was born in Amsterdam.
+297,In which tournament did Abraham Speijer share 1st place with Adolf Olland?,Abraham Speijer shared 1st place with Adolf Olland in the 1st Dutch Chess Championship at Leiden 1909.,Abraham Speijer shared 1st place with Adolf Olland in the 1st Dutch Chess Championship at Leiden 1909.
+298,How did Abraham Speijer perform in the Saint Petersburg 1909 chess tournament?,"In the Saint Petersburg 1909 chess tournament, Abraham Speijer finished 17th out of 19 players with 6/20.",Abraham Speijer finished 17th out of 19 players with 6/20 in the Saint Petersburg 1909 chess tournament.
+299,Who did Abraham Speijer lose to in 1921 in match play?,Abraham Speijer lost to Max Euwe in 1921 in match play.,Abraham Speijer lost to Max Euwe in 1921 in match play.
+300,In which year did Abraham Speijer lose to world champion Emanuel Lasker in match play?,Abraham Speijer lost to world champion Emanuel Lasker in match play in 1908.,Abraham Speijer lost to world champion Emanuel Lasker in match play in 1908.
+301,Where was Abraham de Moivre born?,The article mentions his birthplace.,Abraham de Moivre was born in Vitry-le-François in Champagne.
+302,Why did Abraham de Moivre move to England at a young age?,The article states the reason for his move.,Abraham de Moivre moved to England at a young age due to the religious persecution of Huguenots in France.
+303,Who were some of Abraham de Moivre's friends?,The article mentions his friends.,"Abraham de Moivre was a friend of Isaac Newton, Edmond Halley, and James Stirling."
+304,What book did Abraham de Moivre write on probability theory?,The article states the book he wrote.,Abraham de Moivre wrote a book on probability theory called The Doctrine of Chances.
+305,Where did Abraham de Moivre spend four years studying Greek?,The article mentions the location where he studied Greek.,Abraham de Moivre spent four years studying Greek at the Protestant Academy at Sedan.
+306,What type of school did Abraham de Moivre first attend in Vitry-le-François?,The article mentions the type of school.,Abraham de Moivre first attended Christian Brothers' Catholic school in Vitry-le-François.
+307,What was the profession of Abraham de Moivre's father?,The article states his father's profession.,"Abraham de Moivre's father, Daniel de Moivre, was a surgeon."
+308,What work by Abraham de Moivre is said to have been prized by gamblers?,The article mentions a specific work.,"Abraham de Moivre's book on probability theory, The Doctrine of Chances, is said to have been prized by gamblers."
+309,At what age did Abraham de Moivre move to study logic at Saumur?,The article provides the age at which he enrolled to study logic at Saumur.,Abraham de Moivre enrolled to study logic at Saumur when he was 15 years old.
+310,Who founded the Protestant Academy of Sedan where Abraham de Moivre studied?,The article mentions the founder of the academy.,"The Protestant Academy of Sedan was founded at the initiative of Françoise de Bourbon, the widow of Henri-Robert de la Marck."
+311,Where did de Moivre move to in 1684 to study physics?,De Moivre moved to Paris in 1684 to study physics.,"In 1684, de Moivre moved to Paris to study physics."
+312,Why was de Moivre sent to Prieuré Saint-Martin-des-Champs?,"De Moivre was sent to Prieuré Saint-Martin-des-Champs for indoctrination into Catholicism, as religious persecution in France became severe.","De Moivre was sent to Prieuré Saint-Martin-des-Champs for indoctrination into Catholicism, as religious persecution in France became severe."
+313,When did de Moivre and his brother present themselves as Huguenots admitted to the Savoy Church in London?,"Although the records indicate that de Moivre left the school in 1688, de Moivre and his brother presented themselves as Huguenots admitted to the Savoy Church in London on 28 August 1687.",De Moivre and his brother presented themselves as Huguenots admitted to the Savoy Church in London on 28 August 1687.
+314,"What realization did de Moivre have after seeing Newton's book, Principia Mathematica?","De Moivre realized that Newton's book, Principia Mathematica, was far deeper than the books he had studied previously and became determined to read and understand it.","After seeing Newton's recent book, Principia Mathematica, de Moivre realized that it was far deeper than the books he had studied previously and became determined to read and understand it."
+315,Who did Newton refer people to for mathematical questions in his later years?,"Newton, in the later years of his life, used to refer people posing mathematical questions to de Moivre, stating that de Moivre knew all these things better than he did.","Newton, in the later years of his life, used to refer people posing mathematical questions to de Moivre, saying, ""He knows all these things better than I do."""
+316,When was Abraham de Moivre elected a Fellow of the Royal Society?,Abraham de Moivre was elected a Fellow of the Royal Society on 30 November 1697.,Abraham de Moivre was elected a Fellow of the Royal Society on 30 November 1697.
+317,What was the outcome of the commission that Abraham de Moivre was appointed to in 1712?,Abraham de Moivre was appointed to a commission alongside other mathematicians to review the claims of Newton and Leibniz as to who discovered calculus. The outcome of this commission would be the resolution of the controversy between Newton and Leibniz.,"The commission reviewed the claims of Newton and Leibniz as to who discovered calculus, aiming to resolve the controversy."
+318,Why was Abraham de Moivre unable to obtain an appointment to a chair of mathematics at any university?,Abraham de Moivre was unable to obtain a university appointment due to a bias against his French origins. This bias led to his dependence on time-consuming tutoring and hindered his academic progress.,"De Moivre's French origins led to bias against him, preventing him from securing a university appointment in mathematics and causing him to rely heavily on tutoring."
+319,Who proved the formula regarding the centripetal force that Abraham de Moivre had discovered in 1705?,"The mathematician Johann Bernoulli proved the formula that de Moivre had intuitively discovered in 1705, regarding the centripetal force related to the distance from the center of forces and the perpendicular on the tangent.",The formula discovered by de Moivre in 1705 was proven by mathematician Johann Bernoulli.
+320,What did de Moivre publish in the Philosophical Transactions in 1695?,"De Moivre's first mathematics paper was communicated by Halley to the Royal Society in 1695, which was then published in the Philosophical Transactions the same year.","De Moivre published his first mathematics paper in the Philosophical Transactions in 1695, which arose from his study of fluxions in the Principia Mathematica."
+321,Where did Abraham de Moivre earn money from playing chess?,"The passage mentions that de Moivre earned a little money from playing chess at old Slaughter's Coffee House, St. Martin's Lane at Cranbourn Street.",Abraham de Moivre earned money from playing chess at old Slaughter's Coffee House.
+322,On what date did Abraham de Moivre predict his own death and when did it occur?,"De Moivre noted he was sleeping an extra 15 minutes each night and predicted his death to be the day when the sleep time reached 24 hours, which was the 27th of November, 1754. He did indeed pass away on that exact date.","Abraham de Moivre predicted his own death to be on the 27th of November, 1754, and he died on that day."
+323,Who were some of the predecessors whose work Abraham de Moivre expanded upon in the field of probability?,"The passage mentions that De Moivre expanded upon the work of his predecessors, particularly Christiaan Huygens and several members of the Bernoulli family in the fields of probability and mathematics.",Abraham de Moivre expanded upon the work of Christiaan Huygens and several members of the Bernoulli family.
+324,What was the title of the second textbook on probability theory written by Abraham de Moivre?,De Moivre produced the second textbook on probability theory called 'The Doctrine of Chances: a method of calculating the probabilities of events in play'.,The title of the second textbook on probability theory written by Abraham de Moivre was 'The Doctrine of Chances: a method of calculating the probabilities of events in play'.
+325,What is the formula proposed by de Moivre for estimating a factorial?,,De Moivre proposed the formula for estimating a factorial as n! = cn(n+1/2)e−n.
+326,Who found the constant c in de Moivre's factorial estimation formula to be √2π?,,James Stirling found that the constant c in de Moivre's factorial estimation formula was √2π.
+327,What did de Moivre reveal in his article 'Annuities upon Lives'?,,De Moivre revealed the normal distribution of the mortality rate over a person's age in his article 'Annuities upon Lives'.
+328,"According to some authors, what distribution should bear the name of de Moivre based on his work on it?",,"According to some authors, the Poisson distribution should bear the name of de Moivre."
+329,What equation did de Moivre derive in 1707 that involves trigonometric functions?,,"In 1707, de Moivre derived an equation that involves trigonometric functions, specifically the cosine and sine functions."
+330,What kind of equations did de Moivre present in 1722?,De Moivre presented equations from which one can deduce the better known form of de Moivre's Formula.,"In 1722, de Moivre presented equations from which one can deduce the better known form of de Moivre's Formula."
+331,Who proved the formula relating complex numbers and trigonometry for any real n in 1749?,"Euler proved this formula for any real n using Euler's formula, making the proof quite straightforward.",Euler proved the formula relating complex numbers and trigonometry for any real n in 1749.
+332,What did de Moivre approximate for large values of n in 1730?,De Moivre approximated the coefficients of the terms in a binomial expansion for large values of n.,"In 1730, de Moivre approximated the coefficients of the terms in a binomial expansion for large values of n."
+333,"Who sent a letter to de Moivre on June 19, 1729?","The question specifies the date and the action of sending a letter to de Moivre, which is directly mentioned in the text.","James Stirling sent a letter to de Moivre on June 19, 1729."
+334,What did James Stirling include in his book Methodus Differentialis?,"The text states that Stirling included his series for log(n!) in his book, which implies this question.","In his book Methodus Differentialis, James Stirling included his series for log(n!)."
+335,When was the 350th anniversary celebration of Abraham de Moivre's birth organized?,The celebration was organized on 25 November 2017.,The 350th anniversary celebration of Abraham de Moivre's birth was organized on 25 November 2017.
+336,Where was the celebratory colloquium for Abraham de Moivre held?,The colloquium was organized in Saumur.,The celebratory colloquium for Abraham de Moivre was held in Saumur.
+337,What was the title of the colloquium organized in honor of Abraham de Moivre?,"The colloquium was titled 'Abraham de Moivre : le Mathématicien, sa vie et son œuvre'.","The colloquium organized in honor of Abraham de Moivre was titled 'Abraham de Moivre : le Mathématicien, sa vie et son œuvre'."
+338,How did Abraham de Moivre generate some of his income to live modestly in London?,De Moivre advised gamblers at the Old Slaughter's Coffee House on the probabilities associated with their endeavors to generate income.,Abraham de Moivre generated some of his income by advising gamblers in the Old Slaughter's Coffee House on the probabilities associated with their endeavors.
+339,What inspired the central limit theorem?,The question mentions an approximation of the binomial law by de Moivre.,De Moivre's famous approximation of the binomial law inspired the central limit theorem.
+340,What was the title of the colloquium held in Limoges to commemorate the anniversary of de Moivre's death?,The question directly asks for a specific event mentioned in the article.,The colloquium held in Limoges was titled 'Abraham de Moivre : Génie en exil'.
+341,Which work by de Moivre is often associated with the central limit theorem?,The central limit theorem was inspired by De Moivre's famous approximation of the binomial law.,De Moivre's approximation of the binomial law is often associated with the central limit theorem.
