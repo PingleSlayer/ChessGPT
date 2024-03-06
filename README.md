@@ -13,7 +13,7 @@ Some of the unique techniques I would like to test/use are:
  - Using well-structured prompts for said tasks
  - Training in multiple stages on different types of data for specific improvements
  - Making use of hidden tokens used for reasoning that can be ignored during training/finetuning (both to improve performance and to be able to more effectively train on unlabled data?)
- - Generating and using synthetic data
+ - Generating and using high-quality synthetic data
 
 The plan outlines training levels, tasks, data collection, and possible model releases. 
 
